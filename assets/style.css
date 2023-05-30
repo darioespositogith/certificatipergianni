@@ -1,0 +1,4 @@
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner tr{
+    min-height: 10px;
+    height: 10px;
+}
