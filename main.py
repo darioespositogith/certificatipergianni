@@ -9,7 +9,7 @@ import datetime as dt
 
 app = Dash(__name__)
 server = app.server
-content=pd.read_excel('assets/StartSet.xlsx')
+content=pd.read_csv('assets/StartSet.csv')
 content=content.fillna('')
 titoli=['% Anno','ISIN Certificato','Prima Cedola','Ultima Cedola','Emittente','Nome Sottostante','Codice yahoo_fin Sottostante','Strike','Barriera','Mercato']
 colonne=[{'id':name, 'name':name} for name in titoli],
