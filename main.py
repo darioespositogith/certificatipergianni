@@ -3,9 +3,9 @@ from dash.exceptions import PreventUpdate
 from dash.dash_table import *
 from yahoo_fin.stock_info import *
 import os
-from pandas_ods_reader import read_ods
+#from pandas_ods_reader import read_ods
 import pandas as pd
-import datetime as dt
+#import datetime as dt
 
 app = Dash(__name__)
 server = app.server
