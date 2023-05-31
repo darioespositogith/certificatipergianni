@@ -50,6 +50,7 @@ app.layout=html.Div(children=[
                                           editable=True,
                                           sort_action="native",
                                           sort_mode="multi",
+                                          row_deletable=True
                                         ),
                 type="circle",
                 fullscreen=True)])
