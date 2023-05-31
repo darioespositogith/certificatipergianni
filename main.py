@@ -9,7 +9,8 @@ import pandas as pd
 
 app = Dash(__name__)
 server = app.server
-content=pd.read_csv('assets/StartSet.csv')
+content=pd.read_csv('assets/StartSet.csv').dropna(how='all',axis=1).dropna(how='all',axis=0)
+print(content)
 content=content.fillna('')
 titoli=['% Anno','ISIN Certificato','Prima Cedola','Ultima Cedola','Emittente','Nome Sottostante','Codice yahoo_fin Sottostante','Strike','Barriera','Mercato']
 colonne=[{'id':name, 'name':name} for name in titoli],
