@@ -158,7 +158,7 @@ def update_post_tables(click_to_update,n,old_data):
     df=pd.DataFrame.from_records(data)         
     df.to_csv('assets/StartSet.csv',index=False,header=False)
 
-    update_message=f"Aggiornato l'ultima volta alle {datetime.datetime.now()}"
+    update_message=f"Aggiornato l'ultima volta alle {datetime.datetime.now()+datetime.timedelta(hours=2)}"
     with open('file','w') as file:
         file.write(update_message)
     return data,update_message
