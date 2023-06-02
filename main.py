@@ -5,6 +5,8 @@ from dash.dash_table.Format import Format, Scheme, Group, Symbol
 from yahoo_fin.stock_info import *
 import os
 import logging
+import requests
+import json
 #from apscheduler.schedulers.background import BackgroundScheduler
 #from pandas_ods_reader import read_ods
 import pandas as pd
@@ -23,11 +25,15 @@ app = Dash(__name__)
 server = app.server
 content=pd.read_csv('assets/StartSet.csv',header=None).dropna(how='all',axis=1).dropna(how='all',axis=0)
 content=content.fillna('')
-titoli=['% Anno','ISIN Certificato','Prima Cedola','Ultima Cedola','Emittente','Nome Sottostante','Codice yahoo_fin Sottostante','Strike','Barriera','Mercato','Vicinanza alla barriera']
-fixed=['% Anno','ISIN Certificato','Prima Cedola','Ultima Cedola','Emittente','Nome Sottostante','Codice yahoo_fin Sottostante','Strike','Barriera']
+titoli=['% Anno','ISIN Cert.','1° Cedola','Ultima Cedola','Emittente','Sottostante','Codice Sottostante','Strike','Barriera','Prezzo Sottostante','Vicinanza Barriera','Bid Cert.','Ask Cert.']
+fixed=['% Anno','ISIN Cert.','1° Cedola','Ultima Cedola','Emittente','Sottostante','Codice Sottostante']
 colonne=[{'id':name, 'name':name, 'editable':True} for name in fixed]+\
-    [{'id':'Mercato','name':'Mercato','type':'numeric','format':euroformat,'editable':False}]+\
-    [{'id':'Vicinanza alla barriera','name':'Vicinanza alla barriera','type':'numeric','format':FormatTemplate.percentage(1),'editable':False}]
+    [{'id':'Strike','name':'Strike','type':'numeric','format':euroformat,'editable':False}]+\
+    [{'id':'Barriera','name':'Barriera','type':'numeric','format':euroformat,'editable':False}]+\
+    [{'id':'Prezzo Sottostante','name':'Prezzo Sottostante','type':'numeric','format':euroformat,'editable':False}]+\
+    [{'id':'Vicinanza Barriera','name':'Vicinanza barriera','type':'numeric','format':FormatTemplate.percentage(1),'editable':False}]+\
+    [{'id':'Bid Cert.','name':'Bid Cert.','type':'numeric','format':euroformat,'editable':False}]+\
+    [{'id':'Ask Cert.','name':'Ask Cert.','type':'numeric','format':euroformat,'editable':False}]
 content.columns=titoli 
 try:
     with open('file','r') as file:
@@ -67,26 +73,26 @@ app.layout=html.Div(children=[
                                                 }
                                                 ,
                                                 {
-                                                    'if': {'filter_query':'{Vicinanza alla barriera}<0',
-                                                           'column_id': 'Vicinanza alla barriera'},
+                                                    'if': {'filter_query':'{Vicinanza Barriera}<0',
+                                                           'column_id': 'Vicinanza Barriera'},
                                                     'color': 'white',
                                                     'backgroundColor':'white',
                                                 },
                                                 {
-                                                    'if': {'filter_query':'{Vicinanza alla barriera}>0.6',
-                                                           'column_id': 'Vicinanza alla barriera'},
+                                                    'if': {'filter_query':'{Vicinanza Barriera}>0.6',
+                                                           'column_id': 'Vicinanza Barriera'},
                                                     'color': 'white',
                                                     'backgroundColor':'orange',
                                                 },
                                                 {
-                                                    'if': {'filter_query':'{Vicinanza alla barriera}>0.8',
-                                                           'column_id': 'Vicinanza alla barriera'},
+                                                    'if': {'filter_query':'{Vicinanza Barriera}>0.8',
+                                                           'column_id': 'Vicinanza Barriera'},
                                                     'color': 'white',
                                                     'backgroundColor':'red',
                                                 },
                                                 {
-                                                    'if': {'filter_query':'{{Vicinanza alla barriera}}={}'.format('SUPERATA!'),
-                                                           'column_id': 'Vicinanza alla barriera'},
+                                                    'if': {'filter_query':'{{Vicinanza Barriera}}={}'.format('SUPERATA!'),
+                                                           'column_id': 'Vicinanza Barriera'},
                                                     'color': 'white',
                                                     'backgroundColor':'red',
                                                 }
@@ -134,27 +140,86 @@ def update_post_tables(click_to_update,n,old_data):
     #    raise PreventUpdate
     logging.error(f'CLICKED:{click_to_update}, INTERVALS PASSED: {n}')
     data=old_data
-    #print(f'old_data={old_data}')
-    tickers=[line['Codice yahoo_fin Sottostante'].replace('\r','').upper() for line in old_data]
-    #print(f'tickers={tickers}')
+    #logging.error(f'old_data={old_data}')
+    tickers=[line['Codice Sottostante'].replace('\r','').upper() for line in old_data]
+    dizionario_isin_emittente={line['ISIN Cert.'].replace('\r','').upper():line['Emittente'].replace('\r','').upper() for line in old_data}
+    logging.error(dizionario_isin_emittente)
+    for isin in dizionario_isin_emittente.keys():
+        logging.error(f'Sto provando a scaricare {isin} da {dizionario_isin_emittente[isin]}')
+        if isin=='':
+            dizionario_isin_emittente[isin]=('','')
+        elif dizionario_isin_emittente[isin]=='LQ':
+            r=requests.get(url=f'https://certificati.leonteq.com/api/product-model/details/isin/{isin}?language_id=1')
+            bid=r.json()['product']['bid']['initialValue']
+            if 'initialValue' in r.json()['product']['ask'].keys():
+                ask=r.json()['product']['ask']['initialValue']
+            else: 
+                logging.error(f"ATTENZIONE CHE QUA con isin={isin} i valori SONO {r.json()['product']['ask']}")
+                ask='Sito non risponde'
+            dizionario_isin_emittente[isin]=(bid,ask)
+            logging.error(dizionario_isin_emittente[isin])
+        elif dizionario_isin_emittente[isin]=='UNI':
+            r=requests.get(url=f"https://www.investimenti.unicredit.it/{isin.replace('DE0000','')[:-1]}")
+            risultato_testuale=r.text
+            if '<span class="bid">' in risultato_testuale:
+                bid=risultato_testuale.split('<span class="bid">')[1].split('</span>')[0]
+                ask=risultato_testuale.split('<span class="ask">')[1].split('</span>')[0]
+                dizionario_isin_emittente[isin]=(bid,ask)
+                logging.error(dizionario_isin_emittente[isin])
+            else:
+                dizionario_isin_emittente[isin]=('Sito non risponde','Sito non risponde')
+                logging.error(dizionario_isin_emittente[isin])
+        elif dizionario_isin_emittente[isin]=='BNP':
+            r=requests.get(url=f"https://investimenti.bnpparibas.it/product-details/{isin}/")
+            risultato_testuale=r.text
+            if 'data-field="bid"' in risultato_testuale:
+                bid=risultato_testuale.split('data-field="bid"')[1].split('</span>')[0].split('>')[-1]
+                if 'data-field="ask"' in risultato_testuale:
+                    ask=risultato_testuale.split('data-field="ask"')[1].split('</span>')[0].split('>')[-1]
+                else:
+                    bid='bid-only!'
+            else:
+                (bid,ask)=('Sito non risponde','Sito non risponde')
+            dizionario_isin_emittente[isin]=(bid,ask)
+            logging.error(dizionario_isin_emittente[isin])
+        elif dizionario_isin_emittente[isin]=='VON':
+            r=requests.get(url=f"https://certificati.vontobel.com/IT/IT/Prodotti/{isin}/")
+            risultato_testuale=r.text
+            if '<span class="title">Denaro</span><span class="strong value">' in risultato_testuale:
+                bid=risultato_testuale.split('<span class="title">Denaro</span><span class="strong value">')[1].split('</span>')[0]
+                if '<span class="title">Lettera</span><span class="strong value">' in risultato_testuale:
+                    ask=risultato_testuale.split('<span class="title">Lettera</span><span class="strong value">')[1].split('</span>')[0]
+                else:
+                    ask='bid-only!'
+            else:
+                (bid,ask)=('Sito non risponde','Sito non risponde')
+            dizionario_isin_emittente[isin]=(bid,ask)
+            logging.error(dizionario_isin_emittente[isin])
+        else:
+            dizionario_isin_emittente[isin]=('','')
+
+
     quotes={}
     for ticker in tickers:
         ticker=ticker.upper()
     for ticker in list(set(tickers)):
         quotes[ticker]=get_live_price(ticker)
     for line in old_data:
-        valore=float(quotes[line['Codice yahoo_fin Sottostante'].replace('\r','').upper()])
+        valore=float(quotes[line['Codice Sottostante'].replace('\r','').upper()])
         barriera=float(line['Barriera'].replace(',','.'))
         strike=float(line['Strike'].replace(',','.'))
         vicinanza=int((strike-valore)/(strike-barriera)*1000)/1000
         if vicinanza>1:
             vicinanza='SUPERATA!'
-        logging.info(f'valore:{valore},barriera:{barriera},strike:{strike}')
-        print(f'valore:{valore},barriera:{barriera},strike:{strike}')
-        line.update({'Mercato':valore,
-                    'Vicinanza alla barriera':vicinanza})
+        #logging.error(f'valore:{valore},barriera:{barriera},strike:{strike}')
+        #logging.error(f'valore:{valore},barriera:{barriera},strike:{strike}')
+        line.update({'Prezzo Sottostante':valore,
+                    'Vicinanza Barriera':vicinanza,
+                    'Bid Cert.':dizionario_isin_emittente[line['ISIN Cert.']][0],
+                    'Ask Cert.':dizionario_isin_emittente[line['ISIN Cert.']][1]}
+                    )
     data=[line for line in old_data]
-    #print(f'new_data:{data}')
+    #logging.error(f'new_data:{data}')
     df=pd.DataFrame.from_records(data)         
     df.to_csv('assets/StartSet.csv',index=False,header=False)
 
