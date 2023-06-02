@@ -5,7 +5,7 @@ from dash.dash_table.Format import Format, Scheme, Group, Symbol
 from yahoo_fin.stock_info import *
 import os
 import logging
-from apscheduler.schedulers.background import BackgroundScheduler
+#from apscheduler.schedulers.background import BackgroundScheduler
 #from pandas_ods_reader import read_ods
 import pandas as pd
 #import datetime as dt
