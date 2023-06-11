@@ -206,14 +206,20 @@ def update_post_tables(click_to_update,n,old_data):
         quotes[ticker]=get_live_price(ticker)
     for line in old_data:
         valore=float(quotes[line['Codice Sottostante'].replace('\r','').upper()])
-        barriera=float(line['Barriera'].replace(',','.'))
-        strike=float(line['Strike'].replace(',','.'))
+        if type(line['Barriera'])==str:
+            barriera=float(line['Barriera'].replace(',','.'))
+            strike=float(line['Strike'].replace(',','.'))
+        else:
+            barriera=float(line['Barriera'])
+            strike=float(line['Strike'])
         vicinanza=int((strike-valore)/(strike-barriera)*1000)/1000
         if vicinanza>1:
             vicinanza='SUPERATA!'
         #logging.error(f'valore:{valore},barriera:{barriera},strike:{strike}')
         #logging.error(f'valore:{valore},barriera:{barriera},strike:{strike}')
-        line.update({'Prezzo Sottostante':valore,
+        line.update({'Barriera':barriera,
+                     'Strike':strike,
+                    'Prezzo Sottostante':valore,
                     'Vicinanza Barriera':vicinanza,
                     'Bid Cert.':dizionario_isin_emittente[line['ISIN Cert.']][0],
                     'Ask Cert.':dizionario_isin_emittente[line['ISIN Cert.']][1]}
