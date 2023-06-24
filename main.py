@@ -7,6 +7,7 @@ import os
 import logging
 import requests
 import json
+from teleborsaconfig import *
 #from apscheduler.schedulers.background import BackgroundScheduler
 #from pandas_ods_reader import read_ods
 import pandas as pd
@@ -25,8 +26,8 @@ app = Dash(__name__)
 server = app.server
 content=pd.read_csv('assets/StartSet.csv',header=None).dropna(how='all',axis=1).dropna(how='all',axis=0)
 content=content.fillna('')
-titoli=['% Anno','ISIN Cert.','1° Cedola','Ultima Cedola','Emittente','Sottostante','Codice Sottostante','Strike','Barriera','Prezzo Sottostante','Vicinanza Barriera','Bid Cert.','Ask Cert.']
-fixed=['% Anno','ISIN Cert.','1° Cedola','Ultima Cedola','Emittente','Sottostante','Codice Sottostante']
+titoli=['% Anno','ISIN Cert.','1° Ced.','Ultima Ced.','Emittente','Sottostante','Codice Sottostante','Strike','Barriera','Prezzo Sottostante','Vicinanza Barriera','Bid Cert.','Ask Cert.']
+fixed=['% Anno','ISIN Cert.','1° Ced.','Ultima Ced.','Emittente','Sottostante','Codice Sottostante']
 colonne=[{'id':name, 'name':name, 'editable':True} for name in fixed]+\
     [{'id':'Strike','name':'Strike','type':'numeric','format':euroformat,'editable':False}]+\
     [{'id':'Barriera','name':'Barriera','type':'numeric','format':euroformat,'editable':False}]+\
@@ -57,7 +58,7 @@ app.layout=html.Div(children=[
                                           data=start_data,
                                           #{name:'' for name in ['% Anno','ISIN Certificato','Prima Cedola','Ultima Cedola','Emittente','Nome Sottostante','Codice yahoo_fin Sottostante','Strike','Barriera','Mercato']}],
                                           style_data={
-                                            'whiteSpace': 'normal',
+                                            'whiteSpace': 'nowrap',
                                             'height': 'auto',
                                             'lineHeight': '15px'
                                             },                                   
@@ -177,7 +178,7 @@ def update_post_tables(click_to_update,n,old_data):
                 if 'data-field="ask"' in risultato_testuale:
                     ask=risultato_testuale.split('data-field="ask"')[1].split('</span>')[0].split('>')[-1]
                 else:
-                    bid='bid-only!'
+                    ask='bid-only!'
             else:
                 (bid,ask)=('Sito non risponde','Sito non risponde')
             dizionario_isin_emittente[isin]=(bid,ask)
@@ -197,6 +198,34 @@ def update_post_tables(click_to_update,n,old_data):
             logging.error(dizionario_isin_emittente[isin])
         else:
             dizionario_isin_emittente[isin]=('','')
+        
+        ##########
+        # TENTATIVI INDIVIDUALI CON TELEBORSA
+        ##########
+
+        print(f'Qui isin è {isin} e mi chiedo se si trovi in {mapping.keys()}')
+        if isin in mapping.keys():
+            print('E ci sta!')
+            r=requests.get(url=mapping[isin])
+            risultato_testuale=r.text
+            if '"ctl00_phContents_ctlInfoTitolo_lblBid"' in risultato_testuale:
+                print('Ho trovato quello che volevo!!!\n\n\n')
+                bid=risultato_testuale.split('"ctl00_phContents_ctlInfoTitolo_lblBid">')[1].split('</span>')[0].split(' x')[0]
+                if '"ctl00_phContents_ctlInfoTitolo_lblAsk"' in risultato_testuale:
+                    ask=risultato_testuale.split('"ctl00_phContents_ctlInfoTitolo_lblAsk">')[1].split('</span>')[0].split(' x')[0]
+                else:
+                    ask='bid-only!'
+            else:
+                (bid,ask)=('Sito non risponde','Sito non risponde')
+            
+            dizionario_isin_emittente[isin]=(bid,ask)
+            logging.error(dizionario_isin_emittente[isin])
+
+
+
+
+
+
 
 
     quotes={}
