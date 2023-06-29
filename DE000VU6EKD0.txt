@@ -1,0 +1,1183 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link href="/IT/Resources/Styles/Design/style.css?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" rel="stylesheet" type="text/css" media="all" /><link href="/IT/Resources/Styles/Design/style.print.css?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" rel="stylesheet" type="text/css" media="print" /><!--[if lt IE 8]><link href="/IT/Resources/Styles/Design/style.ie.css?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" rel="stylesheet" type="text/css" /><![endif]--><link href="/IT/Resources/Images/Icons/favicon.ico?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" rel="shortcut icon" /><link href="/IT/Resources/Images/Icons/favicon.png?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" rel="apple-touch-icon" /><link href="/IT/Resources/Styles/Design/style.mobile.css?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" rel="stylesheet" type="text/css" media="screen" /><script src="/IT/Resources/Scripts/base-vendor.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script><script src="/IT/Resources/Scripts/base.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script><script src="/IT/VontobelControlsResources/Scripts/EmailObfuscasion.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script><script src="/IT/VontobelCoreResources/Scripts/base-core.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script><script src="/IT/VontobelCoreResources/Scripts/vimeo/player.min.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script><script src="/IT/ComponentTrackingResources/Scripts/vcl-tracking.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script><link href="/IT/WebResource.axd?d=rrUq5lpfX1AH9N5wT1N745tv188ethRhYLp5UQ7_EWtUz7oZf8P1_Sc789HYlPkOLHJC7HefLbWb7MzfW-uDqMJ8s8GTClmduKiqK5m7C5jifhCFEDuT-kBNI_aZm295KmlYaw2&amp;t=638234858601703179" type="text/css" rel="stylesheet" /><meta name="language" content="it-it, it" /><meta name="robots" content="follow, index" /><meta name="description" content="Scopri l&#39;offerta di Certificati e Covered Warrant di Vontobel - Certificati a Leva Fissa, Nuove emissioni e News di mercato." /><meta name="keywords" content="Leva Fissa,  Covered Warrant,  FTSEMIB,  MIB,  Borsa Italiana,  Sedex,  certificati,  Warrant,  Banca Vontobel,  Prodotti derivati,  Warrant Vontobel,  Euro TLX,  Market Maker,  Denaro,  Lettera,  Metalli preziosi,  Trading,  bid ask spread,  Benchmark a Leva Fissa,  Petrolio,  Oro,  Aregnto,  nuove emissioni,  diversificazione,  call,  put,  effetto leva,  Mediaset,  Eni,  Enel,  Finmeccanica,  SAIPEM,  Moncler,  Ferrari,  FCA,  Salvatore Ferragammo,  Telecom Italia,  Unipol Sai,  S&amp;P500,  Nasdaq,  Nikkei,  SMI,  DAX,  Dow Jones,  NASDAQ,  SWX,  NEMAX,  FTSE,  CAC,  ATX,  Hex,  AEX,  S&amp;P,  EUREX,  Valore,  Nuove emissioni,  Corso,  Azioni,  Opzioni,  Scadenze,  Prodotti derivati,  Quotazioni di borsa,  Quotazioni di borsa,  Grafico,  Analisi del grafico,  Sottostante,  Call,  Put,  Strike,  Ratio,  Maturity,  Effetto leva,  Rendimento,  Partecipazione,  Protezione del capitale,  Indici azionari,  Valute,  Obbligazioni,  Sconto,  Reverse Convertible" /><title>
+	DE000VU6EKD0 | Memory Cash Collect Express Certificate su Renault, Stellantis | Vontobel Certificati e Covered Warrant
+</title></head>
+<body data-tracking-listener-onscroll="{&quot;category&quot;:&quot;scroll&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}">
+	<div>
+	<script type='text/javascript'>
+				var utag_data ={"country":"it","domicile":"it","language":"it","preferred_language":"it","page_type":"product","asset_type":"structured-product","asset_value":"DE000VU6EKD0","page_id":"DE000VU6EKD0","publish_date":"2016-02-26","touchpoint_version":"1"};
+			</script><script type='text/javascript'>
+				(function(a, b, c, d){
+					a = '//vtd.vontobel.com/derinet-website-v3/prod/utag.js';
+					b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+					d.type = 'text/java' + c; d.async = true;
+					a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a)
+				})();
+			</script>
+</div>
+	<div>
+
+</div>
+	<!--1EC5146CB237E6091F6B8BC3F5C57324-->
+	<form name="aspnetForm" method="post" action="/IT/IT/Prodotti/DE000VU6EKD0/" id="aspnetForm">
+<input type="hidden" name="ctl00_ToolkitScriptManager1_HiddenField" id="ctl00_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="ctl00_ctl22_ctl00_ctl00_ctl01_ClientState" id="ctl00_ctl22_ctl00_ctl00_ctl01_ClientState" value="{&quot;ActiveTabIndex&quot;:0,&quot;TabState&quot;:[true,true,true]}" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWBGYPZBYEAgYPFgIeB2NvbnRlbnQFfFNjb3ByaSBsJ29mZmVydGEgZGkgQ2VydGlmaWNhdGkgZSBDb3ZlcmVkIFdhcnJhbnQgZGkgVm9udG9iZWwgLSBDZXJ0aWZpY2F0aSBhIExldmEgRmlzc2EsIE51b3ZlIGVtaXNzaW9uaSBlIE5ld3MgZGkgbWVyY2F0by5kAgcPFgIfAAXDB0xldmEgRmlzc2EsICBDb3ZlcmVkIFdhcnJhbnQsICBGVFNFTUlCLCAgTUlCLCAgQm9yc2EgSXRhbGlhbmEsICBTZWRleCwgIGNlcnRpZmljYXRpLCAgV2FycmFudCwgIEJhbmNhIFZvbnRvYmVsLCAgUHJvZG90dGkgZGVyaXZhdGksICBXYXJyYW50IFZvbnRvYmVsLCAgRXVybyBUTFgsICBNYXJrZXQgTWFrZXIsICBEZW5hcm8sICBMZXR0ZXJhLCAgTWV0YWxsaSBwcmV6aW9zaSwgIFRyYWRpbmcsICBiaWQgYXNrIHNwcmVhZCwgIEJlbmNobWFyayBhIExldmEgRmlzc2EsICBQZXRyb2xpbywgIE9ybywgIEFyZWdudG8sICBudW92ZSBlbWlzc2lvbmksICBkaXZlcnNpZmljYXppb25lLCAgY2FsbCwgIHB1dCwgIGVmZmV0dG8gbGV2YSwgIE1lZGlhc2V0LCAgRW5pLCAgRW5lbCwgIEZpbm1lY2NhbmljYSwgIFNBSVBFTSwgIE1vbmNsZXIsICBGZXJyYXJpLCAgRkNBLCAgU2FsdmF0b3JlIEZlcnJhZ2FtbW8sICBUZWxlY29tIEl0YWxpYSwgIFVuaXBvbCBTYWksICBTJlA1MDAsICBOYXNkYXEsICBOaWtrZWksICBTTUksICBEQVgsICBEb3cgSm9uZXMsICBOQVNEQVEsICBTV1gsICBORU1BWCwgIEZUU0UsICBDQUMsICBBVFgsICBIZXgsICBBRVgsICBTJlAsICBFVVJFWCwgIFZhbG9yZSwgIE51b3ZlIGVtaXNzaW9uaSwgIENvcnNvLCAgQXppb25pLCAgT3B6aW9uaSwgIFNjYWRlbnplLCAgUHJvZG90dGkgZGVyaXZhdGksICBRdW90YXppb25pIGRpIGJvcnNhLCAgUXVvdGF6aW9uaSBkaSBib3JzYSwgIEdyYWZpY28sICBBbmFsaXNpIGRlbCBncmFmaWNvLCAgU290dG9zdGFudGUsICBDYWxsLCAgUHV0LCAgU3RyaWtlLCAgUmF0aW8sICBNYXR1cml0eSwgIEVmZmV0dG8gbGV2YSwgIFJlbmRpbWVudG8sICBQYXJ0ZWNpcGF6aW9uZSwgIFByb3RlemlvbmUgZGVsIGNhcGl0YWxlLCAgSW5kaWNpIGF6aW9uYXJpLCAgVmFsdXRlLCAgT2JibGlnYXppb25pLCAgU2NvbnRvLCAgUmV2ZXJzZSBDb252ZXJ0aWJsZWQCAw8WAh4GYWN0aW9uBR0vSVQvSVQvUHJvZG90dGkvREUwMDBWVTZFS0QwLxYcAgUPDxYEHghDc3NDbGFzcwUaaGVhZGVyLWhvbGRlciBkZXNrdG9wLW9ubHkeBF8hU0ICAmQWAmYPZBYCZg9kFgJmD2QWBGYPZBYCZg9kFgJmD2QWBmYPD2QWAh4CaWQFCk15U2V0dGluZ3NkAgEPDxYCHgdWaXNpYmxlaBYCHwQFEVByb2R1Y3RUeXBlU291cmNlZAICDw9kFgIfBAUHQ29udGFjdGQCAQ9kFgZmD2QWBGYPZBYEZg8PZBYCHgRocmVmBQsjTXlTZXR0aW5nc2QCAQ8PZBYCHwYFCCNDb250YWN0ZAIBDw8WBB8CBQtmb3JtLXNlYXJjaB8DAgIWAh4XZGF0YS10cmFja2luZy1jb21wb25lbnQFWnsiY29tcG9uZW50X2lkIjoiYzE4YzdkNzMtYzRjNS00ZjI3LTliYjItYjg4Y2U3MzY4ZTJjIiwiY29tcG9uZW50X25hbWUiOiJmdWxsdGV4dCBzZWFyY2gifRYCZg9kFgJmDw9kFgIeH2RhdGEtdHJhY2tpbmctbGlzdGVuZXItb25zZWFyY2gFYnsiYWN0aW9uIjoic2VhcmNoIiwiY2F0ZWdvcnkiOiJmdWxsdGV4dC1zZWFyY2giLCJub25JbnRlcmFjdGlvbiI6ImZhbHNlIiwidGVjaF9jYXRlZ29yeSI6ImZpbHRlciJ9ZAIBDw8WBB8CBQtsb2dvLWhvbGRlch8DAgJkZAICD2QWAgIBD2QWAmYPZBYCZg8PFgQfAgUWbmF2LW1haW4gbGlzdC11bnN0eWxlZB8DAgIWAh8HBXZ7ImNvbXBvbmVudF9pZCI6IjAwMmNkN2ZhLTExMzgtNGIzYS05ZGNhLWE0OGRmMzg3YzY0OSIsImNvbXBvbmVudF9uYW1lIjoibmF2aWdhdGlvbi10b3AiLCJjb21wb25lbnRfaXNfcmVsZXZhbnQiOnRydWV9ZAIHDw8WBB8CBQ1tb2JpbGUtaGVhZGVyHwMCAmQWBmYPZBYCAgMPDxYCHwVoZGQCAQ9kFgRmDw8WBB8CBQtsb2dvLWhvbGRlch8DAgJkZAIBDw8WBB8CBQtmb3JtLXNlYXJjaB8DAgJkFgJmD2QWAmYPD2QWAh8IBWJ7ImFjdGlvbiI6InNlYXJjaCIsImNhdGVnb3J5IjoiZnVsbHRleHQtc2VhcmNoIiwibm9uSW50ZXJhY3Rpb24iOiJmYWxzZSIsInRlY2hfY2F0ZWdvcnkiOiJmaWx0ZXIifWQCAg9kFgJmD2QWAmYPZBYCZg9kFgJmDw8WBB8CBQRyb290HwMCAmRkAgsPDxYEHwIFCXRvb2xzLW5hdh8DAgJkFgoCAQ9kFgJmD2QWBGYPZBYCAgEPD2QWAh4Hb25jbGljawV6JGdldCgnY3RsMDBfY3RsMTBfY3RsMDFfY3RsMDEnKS5jb250cm9sLkRvUG9zdGJhY2tUb1RhcmdldFdpbmRvdygnY3RsMDAkY3RsMTAkY3RsMDEkY3RsMDEkY3RsMDEnLCAnX2JsYW5rJyk7IHJldHVybiBmYWxzZTtkAgEPDxYCHwVoZGQCAg8PFgIfBWhkFgJmD2QWAmYPDxYCHwVoZBYCAgEPD2QWAh8JBXokZ2V0KCdjdGwwMF9jdGwxMF9jdGwwMl9jdGwwMScpLmNvbnRyb2wuRG9Qb3N0YmFja1RvVGFyZ2V0V2luZG93KCdjdGwwMCRjdGwxMCRjdGwwMiRjdGwwMSRjdGwwMScsICdfYmxhbmsnKTsgcmV0dXJuIGZhbHNlO2QCAw8PFgIfBWhkFgJmD2QWBGYPDxYCHwVoZBYCAgEPD2QWAh8JBXokZ2V0KCdjdGwwMF9jdGwxMF9jdGwwM19jdGwwMScpLmNvbnRyb2wuRG9Qb3N0YmFja1RvVGFyZ2V0V2luZG93KCdjdGwwMCRjdGwxMCRjdGwwMyRjdGwwMSRjdGwwMScsICdfYmxhbmsnKTsgcmV0dXJuIGZhbHNlO2QCAQ8QDxYCHwVoZGQWAGQCBA8PFgIfBWhkZAIGD2QWAmYPZBYCZg8PFgQfAgUZaW5mby1kcm9wIHBvcHVwLWNvbnRhaW5lch8DAgJkFgICAg9kFgJmD2QWAgIBD2QWAgIBD2QWAmYPZBYCZg9kFgICAQ8PZBYCHwkFtgEkZ2V0KCdjdGwwMF9jdGwxMF9jdGwwNl9jdGwwMV9jdGwwMl9jdGwwNF9jdGwwMF9jdXJyZW50UGFnZScpLmNvbnRyb2wuRG9Qb3N0YmFja1RvVGFyZ2V0V2luZG93KCdjdGwwMCRjdGwxMCRjdGwwNiRjdGwwMSRjdGwwMiRjdGwwNCRjdGwwMCRjdXJyZW50UGFnZSRjdGwwMScsICdfYmxhbmsnKTsgcmV0dXJuIGZhbHNlO2QCDQ8PFgQfAgULYnJlYWRjcnVtYnMfAwICZGQCFQ8PFgQfAgUNc3RpY2t5LWZvb3Rlch8DAgJkFgRmDw8WBB8CBQtiYWNrLXRvLXRvcB8DAgIWAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAgEPDxYGHwIFC3N0aWNreS10ZXh0HwMCAh8FaGRkAhcPDxYEHwIFD21vYmlsZS1jb250YWN0cx8DAgJkZAIbDw8WBB8CBQpib3R0b20tbmF2HwMCAhYCHwcFeXsiY29tcG9uZW50X2lkIjoiMTk0YjcyNjgtZDExNC00MGFjLTk0OTEtZGFlNjBlYzhhY2IzIiwiY29tcG9uZW50X25hbWUiOiJuYXZpZ2F0aW9uLWJvdHRvbSIsImNvbXBvbmVudF9pc19yZWxldmFudCI6dHJ1ZX1kAh8PDxYEHwIFDGJvdHRvbS1ibG9jax8DAgJkZAIjDw8WAh8FaGRkAiUPDxYEHwIFBnNvY2lhbB8DAgJkZAInDw8WBh8CBRV0ZWxsQUZyaWVuZCBsaWdodGJveDEfAwICHwVoZGQCKg9kFhACAg8PFgQfAgUSY29sdW1uLXByb2R1Y3RCb2R5HwMCAmRkAgQPDxYEHwIFHWxheW91dCBmdWxsIGNvbHVtbi1MYXlvdXRGdWxsHwMCAmRkAgYPDxYEHwIFFGNvbHVtbi1Db25maWd1cmF0aW9uHwMCAmRkAgoPDxYEHwIFEmNvbHVtbi1wcm9kdWN0SGVhZB8DAgJkZAIMDw8WBB8CBQ1jb2x1bW4taGVhZGVyHwMCAmRkAg4PDxYEHwIFE2NvbHVtbi1hZHZlcnRpc21lbnQfAwICZGQCEQ8PFgQfAgUfY29sdW1uIHRocmVlIGNvbHVtbi1Db2x1bW5UaHJlZR8DAgJkZAISDw8WBB8CBRtjb2x1bW4gb25lIGNvbHVtbi1Db2x1bW5PbmUfAwICZGQCLA8PFgQfAgUZaW5mby1kcm9wIHBvcHVwLWNvbnRhaW5lch8DAgJkFgICAw9kFgJmD2QWAmYPZBYCAgEPDxYEHwIFEW9wZW4tY2xvc2UgYWN0aXZlHwMCAmQWBAIBDw9kFgQfBgUBIx8JBWt2YXIgaXNPcGVuID0gKCQoJyNjdGwwMF9jdGwyM19jdGwwOF9pc09wZW4nKS52YWwoKSA9PSAndHJ1ZScpOyAkKCcjY3RsMDBfY3RsMjNfY3RsMDhfaXNPcGVuJykudmFsKCFpc09wZW4pOxYCAgEPFgQeBWNsYXNzBQt0aXRsZSB3YXRjaB4JaW5uZXJodG1sBQ9JIG1pZWkgcHJvZG90dGlkAgIPDxYEHwIFBXNsaWRlHwMCAmRkAi0PD2QWAh8KBQ5kaXNwbGF5OiBub25lO2QYDgU7Y3RsMDAkY3RsMjIkY3RsMDAkY3RsMDAkY3RsMDEkY3RsMDAkY3RsMDQkY3RsMDAkY3RsMDckY3RsMDAPFCsBBAL/////DwIBZmZkBTtjdGwwMCRjdGwyMiRjdGwwMCRjdGwwMCRjdGwwMSRjdGwwMCRjdGwwNCRjdGwwMCRjdGwyMyRjdGwwMA8UKwEEAv////8PAgFmZmQFO2N0bDAwJGN0bDIyJGN0bDAwJGN0bDAwJGN0bDAxJGN0bDAwJGN0bDA0JGN0bDAwJGN0bDIxJGN0bDAwDxQrAQQC/////w8CAWZmZAU7Y3RsMDAkY3RsMjIkY3RsMDAkY3RsMDAkY3RsMDEkY3RsMDAkY3RsMDQkY3RsMDAkY3RsMzAkY3RsMDAPFCsBBAL/////DwIBZmZkBUFjdGwwMCRjdGwyMiRjdGwwMCRjdGwwMCRjdGwwMSRjdGwwMCRjdGwwNCRjdGwwMCRjdGwxNCRjdGwyOCRjdGwwMA8UKwEEAv////8PAgFmZmQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBR1jdGwwMCRjdGwyMiRjdGwwMCRjdGwwMCRjdGwwMQUgY3RsMDAkY3RsMjMkY3RsMDgkd2F0Y2hsaXN0TG9naW4FO2N0bDAwJGN0bDIyJGN0bDAwJGN0bDAwJGN0bDAxJGN0bDAwJGN0bDA0JGN0bDAwJGN0bDE3JGN0bDAwDxQrAQQC/////w8CAWZmZAU7Y3RsMDAkY3RsMjIkY3RsMDAkY3RsMDAkY3RsMDEkY3RsMDAkY3RsMDQkY3RsMDAkY3RsMTEkY3RsMDAPFCsBBAL/////DwIBZmZkBTtjdGwwMCRjdGwyMiRjdGwwMCRjdGwwMCRjdGwwMSRjdGwwMCRjdGwwNCRjdGwwMCRjdGwwOSRjdGwwMA8UKwEEAv////8PAgFmZmQFO2N0bDAwJGN0bDIyJGN0bDAwJGN0bDAwJGN0bDAxJGN0bDAwJGN0bDA0JGN0bDAwJGN0bDI1JGN0bDAwDxQrAQQC/////w8CAWZmZAUdY3RsMDAkY3RsMjIkY3RsMDAkY3RsMDAkY3RsMDEPD2RmZAU7Y3RsMDAkY3RsMjIkY3RsMDAkY3RsMDAkY3RsMDEkY3RsMDAkY3RsMDQkY3RsMDAkY3RsMDMkY3RsMDAPFCsBBAL/////DwIBZmZkBRdjdGwwMCRjdGwyMiRjdGwwMCRjdGwwMA8oKcsBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uSW50MzIsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkDWzBdZAU7Y3RsMDAkY3RsMjIkY3RsMDAkY3RsMDAkY3RsMDEkY3RsMDAkY3RsMDQkY3RsMDAkY3RsMjgkY3RsMDAPFCsBBAL/////DwIBZmZk+VNnCYTbVKZfiIjegn23zJxe4Ww=" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+function switchTabs(onTabActivated) {
+						var buttons = $('.tabUpdateButton').get();
+						for(var i=0; i<buttons.length; i++) {
+							var button = buttons[i];
+							if (button.parentNode.parentNode.style.visibility !== 'hidden') {
+								$(button).trigger('click');
+							}
+						}
+						if (onTabActivated) {
+							var tabs = $('.ajax__tab_panel').get();
+							for(var z=0; z<tabs.length; z++) {
+								var tab = tabs[z];
+								if (tab.style.visibility === 'visible') {
+									onTabActivated(z);
+								}
+							}
+						}
+					}
+				$(document).ready(function() {
+  if (typeof (ValidationSummaryOnSubmit) !== "undefined") {
+    var ValidationSummaryOnSubmitOrig = ValidationSummaryOnSubmit;
+    ValidationSummaryOnSubmit = function(validationGroup) {
+      var scrollToOrig = window.scrollTo;
+      window.scrollTo = function() { };
+      ValidationSummaryOnSubmitOrig(validationGroup);
+      window.scrollTo = scrollToOrig;
+    }
+  }
+});
+document.addEventListener('DOMContentLoaded', function() {
+	document.addEventListener('component-tracking-dispatching', function(event) {
+		var isDisclaimerEvent = function(e) {
+			var trackingEvent = e && e.detail && e.detail.trackingEvent;
+			var originalEvent = trackingEvent && trackingEvent.detail && trackingEvent.detail.originalEvent;
+			var target = originalEvent && originalEvent.target;
+			if(target && $(target).parents('.tracking-disclaimer').length)
+				return true;
+			return false;
+		}
+
+		if(isDisclaimerEvent(event))
+			return;
+
+		if($.cookie('derinet_IT_disclaimer') != "1"){
+			event.detail.fireEvent = false;
+		}
+	});
+});var __cultureInfo = {"name":"it-IT","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"Non un numero","CurrencyNegativePattern":9,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-Infinito","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":2,"PositiveInfinitySymbol":"+Infinito","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd d MMMM yyyy HH:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["dom","lun","mar","mer","gio","ven","sab"],"ShortestDayNames":["do","lu","ma","me","gi","ve","sa"],"DayNames":["domenica","lunedì","martedì","mercoledì","giovedì","venerdì","sabato"],"AbbreviatedMonthNames":["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic",""],"MonthNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre",""],"IsReadOnly":false,"NativeCalendarName":"calendario gregoriano","AbbreviatedMonthGenitiveNames":["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic",""],"MonthGenitiveNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre",""]},"eras":[1,"d.C.",null,0]};//]]>
+</script>
+
+<script src="/IT/ScriptResource.axd?d=Ycg7S-lvAaenk_SujCmFQTHWn8j8t7XigR_AwIuR4VVA4EefGvXJL_0KbZX8AYPqPT4e5PcaxlKhe2UpovsvQooUAU0kIfMwoK1Ezm0j47k6vIo30&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/IT/CoreResources/Scripts/Core-3.10.9.6211.js" type="text/javascript"></script>
+<script src="/IT/CoreResources/Scripts/ClientScriptControl-3.10.9.6211.js" type="text/javascript"></script>
+<script src="/IT/scripts/quotestream/combined.js" type="text/javascript"></script>
+<script src="/IT/Resources/Scripts/all.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/CommonResources/Scripts/MobilePageHeaderControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/Resources/Scripts/CountryDropDownControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/CommonResources/Scripts/all.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelControlsResources/Scripts/SocialMediaControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/StickyFooterContainerControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/BackToTopControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/ToggleResponsiveDesignControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/AjaxToolKit?_TSM_HiddenField_=ctl00_ToolkitScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3ait-IT%3a1547e793-5b7e-48fe-8490-03a375b13a33%3a475a4ef5%3aeffe2a26%3a8e94f951%3a1d3ed089" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/ChartControlBase.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/IE8Fix.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/highstock.src.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/StockChartControlBase.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/CommonResources/Scripts/StockChartControlBase.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/datePickerControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/jquery.ui.datepicker-it.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/DisclaimerControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<script src="/IT/VontobelCoreResources/Scripts/WebComponentLinkScriptControl.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="16D6A38A" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdADp/mwKqHoCIRO25QKJd+yHk1iR0iedNzYbcfAosIKjlAKCfjMiZ/MB+fBivHKlF6Jv/STjOMseWz9TcK9SABYa14JXjBqauW8RiECfNZQewtSU4dT4gJyZSs7EH/cHFUtne+VXqWO+8k6du3YD76lq78v0LLgf2x8yJF6gqTV+dy3e7zjwOSnwqyABDZeI/GPaYy6+BBgayGHAKyheKtCXkeMwg/29tsu4d9HvC0WqTknlbQd9F0QNzlX0/0z2EPPoTKFXSp8ixcErwI7D2oIoFpZBdP5crxT2ZNxqco1GlVgg7uQGuLvr0q4SQfG/a14W14apD4knNyjalWcZGDTd6iEpuk+0lyOfGHzike2TMP+o4OIGlm1I7/arSHzHZRVls2u2DAYJlxVy7BOSL38JT28JI3VqMjmp/Ry0yiV9BPBU5fivMISpxyD1VjYmLnHq2KfdlyCfJfSmPFd7eBfTzoKiUFlQHUN/tut93LH73xhS64r685X2sPTtm7D1Xd/OvhXE1GprMU54YsnOSLaRyGztqSR6nvtP7yuwbvwQ8pysI40s0MVrm7gKwpYjYBMAsdc2OlM0Rft7d0KvwRbuvxH2QnE+2X7xLzOT0A1PesJw98ANiYo3mScYlbZ9fwhglMoX3KNLsZ++WspGW/D3Al/4Xg+8v9bgvxBJh9Hxf2i3F7ul55Y/SD2WldVvDyJDDTM4lXQ2zKrRqrWvucxF7ltQIhHayEqhB/c6wvjrh6btKWnDkwi05q0ClZc0qpx+LNZjxjrpYUIK/WKPFMH152FavNuKlzaBuctpLWMHR8L5yoPDPRPpbq3wImiBWduvXlJphgbC9w3fQW15evniSYMozdoH/MhrBCzetLDG/nSCXsyPj8OdvMefRDV3eQd1FWj94vR5yKvov4UzGG4S+44p7lbkpemdISS9Hf2501bYn0Y54A6tktYCoyJGXFy8QGMLPYZdPXrmVspr/+Zc14lQQDtoCUECapAA0HBf/yuJy3WYQG6T1pzy8sUnrnui86P+w/5oj0ty9JF3ucW3sKRmAGiB1ADw0kqOehhpVOAgEHS4qYAwhNdQZZjkoMS13dzOzkNWotHu/u9iVhhggWGuQ/Q1BcAymkegJ1oBlOcZq9OYAcC7SM6rEPQTMhgTCKBqQzyXRafuh2IE/NIDQMMRDOLktaSFwvsE1a8Agp99JjK8/vNaiLV2HDOVrSfPaebPgRTnxi7o83rn19lyDHsT8fVjXWYl2uNTVK1LCTsp8cuM=" />
+		
+		<div>
+	<div class="column-Configuration">
+
+	</div><div class="column-clear">
+
+	</div>
+</div>
+		<div class="header-holder desktop-only">
+	<div id="ctl00_ctl08_upHeader">
+		<div class="header headroom">
+			<div class="login-box-wrap">
+				<div class="login-box">
+					<div class="login-row row">
+						<div class="login-col my-settings-col" id="MySettings">
+							<div class="login-col-content">
+								<div class="login-list">
+									&nbsp;
+								</div><div class="login-list">
+									<h3>
+										Paesi
+									</h3><div id="ctl00_ctl08_CountrySelector">
+										<ul class="list-unstyled">
+											<li><a href="https://markets.vontobel.com/en-dk">Danimarca</a></li><li><a href="https://markets.vontobel.com/en-fi">Finlandia</a></li><li><a href="https://markets.vontobel.com/fr-fr">France</a></li><li><a href="https://zertifikate.vontobel.com/DE/">Germania</a></li><li><a href="https://www.vontobelwarrants.com/">Hong Kong</a></li><li class="active">Italia</li><li><a href="https://markets.vontobel.com/en-no">Norvegia</a></li><li><a href="https://beursproducten.vontobel.com/NL/">Paesi Bassi</a></li><li><a href="https://prospectus.vontobel.com/">Repubblica Ceca</a></li><li><a href="https://derinet.vontobel.com/CH/">Svizzera</a></li><li><a href="https://markets.vontobel.com/en-se">Sweden</a></li><li><a href="https://prospectus.vontobel.com/">Ungheria</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div><div class="login-col contact-col" id="Contact">
+							<div class="login-col-content">
+								<div class="login-list">
+									<h3>
+										Contatti
+									</h3><div>
+										<ul class="list-unstyled">
+											<li><a class="phone" href="tel:800798693">IT: 800 798 693</a><a class="phone" href="tel:+49696959963208">INTL: +49 69 69 59 96 3208</a></li><li><a class="email" href="mailto:certificati@vontobel.com">certificati@vontobel.com</a><a class="email" target="_blank" href=" https://certificati.vontobel.com/IT/IT/News_Eventi/Iscriviti_alle_newsletter "> Iscriviti alle newsletter</a></li><li><a class="twitter" href="https://twitter.com/Vontobel_SP_IT" target="_blank">Seguici su Twitter</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div><a class="close-login-box" href="javascript:void(0);"><span class="desktop-btn"><span class="icon-close"></span></span></a>
+					</div>
+				</div>
+			</div><div class="header-wrap">
+				<div class="header-panel">
+					<a class="toggle-link" href="#MySettings">Italia</a><a class="toggle-link" href="#Contact">Contatti</a><div id="ctl00_ctl08_GlobalSearch" class="form-search" data-tracking-component="{&quot;component_id&quot;:&quot;c18c7d73-c4c5-4f27-9bb2-b88ce7368e2c&quot;,&quot;component_name&quot;:&quot;fulltext search&quot;}">
+						<div>
+							<input name="ctl00$ctl08$GlobalSearch$SearchField" type="text" id="ctl00_ctl08_GlobalSearch_SearchField" title="Per favore scrivete qui il termine ricercato." data-tracking-listener-onsearch="{&quot;action&quot;:&quot;search&quot;,&quot;category&quot;:&quot;fulltext-search&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;filter&quot;}" /><span class="submit"><input name="ctl00$ctl08$GlobalSearch$submit" type="submit" id="ctl00_ctl08_GlobalSearch_submit" /></span>
+						</div>
+					</div>
+				</div><div class="logo-holder">
+					<div class="advertisement-reference">
+						Pubblicità
+					</div><div class="logo-new logo-black">
+						<a title="Home" href="/IT/IT/Home"><img src="/IT/Resources/Images/logo-black.png" alt="Home" border="0" /></a>
+					</div><div class="logo-new logo-white">
+						<a title="Home" href="/IT/IT/Home"><img src="/IT/Resources/Images/logo-white.png" alt="Home" border="0" /></a>
+					</div>
+				</div><div class="nav-holder">
+					<a class="nav-opener" href="javascript:void(0);"><span>I18N_PageHeaderRow: NavOpener</span></a><div class="nav-drop">
+						<div id="ctl00_ctl08_Nav" class="nav">
+							<ul class="nav-main list-unstyled" data-tracking-component="{&quot;component_id&quot;:&quot;002cd7fa-1138-4b3a-9dca-a48df387c649&quot;,&quot;component_name&quot;:&quot;navigation-top&quot;,&quot;component_is_relevant&quot;:true}">
+								<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Prodotti&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;35077cc5-f6e2-4f63-af15-be395ee361a2&quot;}" href="/IT/IT/Prodotti/"><span id="ctl00_ctl08_ctl33_ctl00_linkTitle">Prodotti</span></a><div class="drop">
+									<div class="drop-product">
+										<div class="frame">
+											<strong class="title">Prodotti a Leva</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Leva Fissa Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;63c783d1-61b4-49a0-95f0-7c79aba5c1db&quot;}" href="/IT/IT/Prodotti/Prodotti_Leva/Leva_Fissa_Certificate/"><span id="ctl00_ctl08_ctl33_ctl00_ctl05_ctl00_linkTitle">Leva Fissa Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Matrice Leva&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;7bf04bdc-f0f1-44a9-81ce-7f7b398f02ab&quot;}" href="/IT/IT/Prodotti/Ricerca_prodotti/Matrice_leva/"><span id="ctl00_ctl08_ctl33_ctl00_ctl05_ctl01_linkTitle">Matrice Leva</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Turbo Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;2120c02c-4766-4cd0-8aee-31a5bd3f0117&quot;}" href="/IT/IT/Prodotti/Prodotti_Leva/Turbo_certificate/"><span id="ctl00_ctl08_ctl33_ctl00_ctl05_ctl02_linkTitle">Turbo Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Filtro Grafico&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;f692b1a3-29db-4dd2-9ded-1e2d259d4c74&quot;}" href="/IT/IT/Prodotti/Filtro_Grafico/"><span class="navigation-icon">NEW</span><span id="ctl00_ctl08_ctl33_ctl00_ctl05_ctl03_linkTitle">Filtro Grafico</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Covered Warrant&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;012914aa-108b-4b9b-a776-e88d5a6a0dce&quot;}" href="/IT/IT/Prodotti/Prodotti_Leva/Covered_Warrant/"><span id="ctl00_ctl08_ctl33_ctl00_ctl05_ctl04_linkTitle">Covered Warrant</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Mini Future&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;455d0c29-5436-49ab-9e6f-e32d29a4d3b8&quot;}" href="/IT/IT/Prodotti/Prodotti_Leva/Mini_Future/"><span id="ctl00_ctl08_ctl33_ctl00_ctl05_ctl05_linkTitle">Mini Future</span></a></li>
+											</ul><strong class="title">Prodotti di Investimento</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Bonus Cap Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;bf692d21-6597-4c8e-8139-c3471fb9bad2&quot;}" href="/IT/IT/Prodotti/Prodotti_Investimento/Bonus_Cap_Certificate/"><span id="ctl00_ctl08_ctl33_ctl00_ctl07_ctl00_linkTitle">Bonus Cap Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Bonus Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;08294278-1170-4a9d-b976-c5a5121ece23&quot;}" href="/IT/IT/Prodotti/Prodotti_Investimento/Bonus_Certificate/"><span id="ctl00_ctl08_ctl33_ctl00_ctl07_ctl01_linkTitle">Bonus Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Cash Collect Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;7c9980f0-0be7-419b-8132-3e8883ffd23c&quot;}" href="/IT/IT/Prodotti/Prodotti_Investimento/Cash_Collect_Certificate/"><span id="ctl00_ctl08_ctl33_ctl00_ctl07_ctl02_linkTitle">Cash Collect Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Cedola Fissa Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;36eac73b-ecb7-471f-a887-481572916449&quot;}" href="/IT/IT/Prodotti/Prodotti_Investimento/Cedola_Fissa_Certificate/"><span id="ctl00_ctl08_ctl33_ctl00_ctl07_ctl03_linkTitle">Cedola Fissa Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Outperformance Cap Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;b82fc01c-1ad1-4cc6-86e1-2689890807d5&quot;}" href="/IT/IT/Prodotti/Prodotti_Investimento/Outperformance_Certificate/"><span id="ctl00_ctl08_ctl33_ctl00_ctl07_ctl04_linkTitle">Outperformance Cap Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Tracker e Strategic Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;8c078ca0-35b0-47a9-a536-b361b2424151&quot;}" href="/IT/IT/Prodotti/Prodotti_Investimento/Tracker_Strategic_Certificate/" target="_blank"><span id="ctl00_ctl08_ctl33_ctl00_ctl07_ctl05_linkTitle">Tracker e Strategic Certificate</span></a></li>
+											</ul><strong class="title">Ricerca prodotti</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Prodotti a Leva&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;2b2ee71f-972d-4f2e-bcf2-904c96b9a69f&quot;}" href="/IT/IT/Prodotti/Ricerca_prodotti/Prodotti_a_Leva/"><span id="ctl00_ctl08_ctl33_ctl00_ctl09_ctl00_linkTitle">Prodotti a Leva</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Prodotti di Investimento&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;33836de2-7587-4c02-a9ce-8d6b35c5ef62&quot;}" href="/IT/IT/IT/Prodotti/Ricerca_prodotti/Prodotti_di_Investimento/"><span id="ctl00_ctl08_ctl33_ctl00_ctl09_ctl01_linkTitle">Prodotti di Investimento</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Prodotti con caratteristiche di sostenibilità&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;15ca0cdf-b013-4786-adfd-071a164a41f6&quot;}" href="/IT/IT/Prodotti/Ricerca_prodotti/Prodotti_Investimento_Sostenibili/"><span id="ctl00_ctl08_ctl33_ctl00_ctl09_ctl02_linkTitle">Prodotti con caratteristiche di sostenibilità</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Il Certificate Selector&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;68bae28f-f124-49a4-9b9b-21befead96e6&quot;}" href="/IT/IT/Prodotti/Certificate_Selector/"><span id="ctl00_ctl08_ctl33_ctl00_ctl09_ctl03_linkTitle">Il Certificate Selector</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Ricerca Turbo Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;0275ab35-bbaf-4680-b16d-4073ea0660b7&quot;}" href="/IT/IT/Prodotti/Ricerca_prodotti/Mappa_Knock-Out/"><span id="ctl00_ctl08_ctl33_ctl00_ctl09_ctl04_linkTitle">Ricerca Turbo Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Lista Sottostanti&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;8548a67a-9e5c-4831-b671-291f04f4b7bf&quot;}" href="/IT/IT/Prodotti/Ricerca_prodotti/Lista_sottostanti/"><span id="ctl00_ctl08_ctl33_ctl00_ctl09_ctl05_linkTitle">Lista Sottostanti</span></a></li>
+											</ul><strong class="title">Trading Zero Commissioni</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;con Directa&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;368de00c-7953-4d0b-9f3d-81554a9b84f8&quot;}" href="/IT/Accordi-zero-commissioni/"><span id="ctl00_ctl08_ctl33_ctl00_ctl11_ctl00_linkTitle">con Directa</span></a></li>
+											</ul><strong class="title">Documentazione Legale</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Prospetti, Supplementi etc.&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;f5bd566e-36ff-4343-a7f5-3824046be0dc&quot;}" href="/IT/IT/Prodotti/Ricerca_prodotti/Documentazione_legale/"><span id="ctl00_ctl08_ctl33_ctl00_ctl13_ctl00_linkTitle">Prospetti, Supplementi etc.</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Avvisi - Notice&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;b0fabbbf-7038-40c7-bf78-7365270bbf30&quot;}" href="/IT/IT/Informazioni_legali/Avvisi_-_Notice/"><span id="ctl00_ctl08_ctl33_ctl00_ctl13_ctl01_linkTitle">Avvisi - Notice</span></a></li>
+											</ul>
+										</div>
+									</div>
+								</div></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Investv&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;c4d157b0-01a0-4478-9394-3964fd70f848&quot;}" href="/IT/IT/Investv/Ultima_puntata/"><span id="ctl00_ctl08_ctl33_ctl01_linkTitle">Investv</span></a><div class="drop">
+									<div class="drop-product">
+										<div class="frame">
+											<strong class="title">Puntate</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Ultima Puntata&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;2f4740b0-b31f-4346-8dfe-b7550559977d&quot;}" href="/IT/IT/Investv/Ultima_puntata/"><span id="ctl00_ctl08_ctl33_ctl01_ctl06_ctl00_linkTitle">Ultima Puntata</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Archivio Puntate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;54e4ac74-ed17-4c01-bb5a-caf75ea1af46&quot;}" href="/IT/IT/Investv/Archivio_Puntate/"><span id="ctl00_ctl08_ctl33_ctl01_ctl06_ctl01_linkTitle">Archivio Puntate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Il Lunedì del Trading&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;370f10a3-48a3-4514-a0fb-0986a7d163bb&quot;}" href="/IT/IT/Investv/Il_Luned%c3%ac_del_Trading/"><span id="ctl00_ctl08_ctl33_ctl01_ctl06_ctl02_linkTitle">Il Lunedì del Trading</span></a></li>
+											</ul><strong class="title">Altro</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Informazioni&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;e43960ea-3c88-43ac-a49b-b0a8346900bd&quot;}" href="/IT/IT/Investv/Informazioni/"><span id="ctl00_ctl08_ctl33_ctl01_ctl08_ctl00_linkTitle">Informazioni</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Trader di Investv&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;93c3d880-983d-4eb5-932b-7c47cf768001&quot;}" href="/IT/IT/Investv/Trader/"><span id="ctl00_ctl08_ctl33_ctl01_ctl08_ctl01_linkTitle">Trader di Investv</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Punteggi&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;9fd4c782-3034-437e-943e-307cd16e97a1&quot;}" href="/IT/IT/Investv/Punteggi/"><span id="ctl00_ctl08_ctl33_ctl01_ctl08_ctl02_linkTitle">Punteggi</span></a></li>
+											</ul>
+										</div>
+									</div>
+								</div><div class="badge">
+									New
+								</div></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;News &amp; Analisi&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;4fafb35d-44fc-40e8-aeac-90f225996418&quot;}" href="/IT/IT/news_analisi_tecniche/"><span id="ctl00_ctl08_ctl33_ctl02_linkTitle">News & Analisi</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Newsletter&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;415880f1-88cb-4437-8c2b-5297d01c298c&quot;}" href="/IT/IT/showpage.aspx?pageID=349"><span id="ctl00_ctl08_ctl33_ctl03_linkTitle">Newsletter</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Servizi&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;17bbe46d-964b-4283-9be3-61ee75812f4a&quot;}" href="/IT/IT/Info_Eventi/"><span id="ctl00_ctl08_ctl33_ctl04_linkTitle">Servizi</span></a><div class="drop">
+									<div class="drop-product">
+										<div class="frame">
+											<strong class="title">Eventi &amp; Webinar</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Prossimi Eventi &amp; Webinar&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;b687cf97-1981-4f45-aa5b-3586855a85f0&quot;}" href="/IT/IT/News_Eventi/Eventi/"><span id="ctl00_ctl08_ctl33_ctl04_ctl05_ctl00_linkTitle">Prossimi Eventi & Webinar</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Archivio webinar e video&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;61bb5434-b650-44ac-881d-1708a314580c&quot;}" href="/IT/IT/News_Eventi/Archivio_Webinar/"><span id="ctl00_ctl08_ctl33_ctl04_ctl05_ctl01_linkTitle">Archivio webinar e video</span></a></li>
+											</ul><strong class="title">Newsletter</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Iscriviti alle newsletter&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;0f5b85aa-d902-4202-8e09-597b389b44e3&quot;}" href="/IT/IT/News_Eventi/Iscriviti_alle_newsletter/"><span id="ctl00_ctl08_ctl33_ctl04_ctl07_ctl00_linkTitle">Iscriviti alle newsletter</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Newsletter Cancellazione / Modifica&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;a87bdfde-f7fe-428d-a046-a9b92946fa72&quot;}" href="/IT/IT/News_Eventi/Cancellare-Modificare-Newsletter/"><span id="ctl00_ctl08_ctl33_ctl04_ctl07_ctl01_linkTitle">Newsletter Cancellazione / Modifica</span></a></li>
+											</ul><strong class="title">Social Media</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Seguici su Twitter&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;b95a5876-c742-4c2f-8659-fbce79ca48ef&quot;}" href="https://twitter.com/Vontobel_SP_IT" target="_blank"><span id="ctl00_ctl08_ctl33_ctl04_ctl09_ctl00_linkTitle">Seguici su Twitter</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Seguici su Facebook&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;a07693cf-7a60-4062-a413-22c4ed006841&quot;}" href="https://www.facebook.com/Vontobel.certificati" target="_blank"><span id="ctl00_ctl08_ctl33_ctl04_ctl09_ctl01_linkTitle">Seguici su Facebook</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Seguici su YouTube&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;930d48c9-fe6c-428d-ad03-ca6fd52c6ca7&quot;}" href="https://www.youtube.com/channel/UC4IYY1WChszpb3R1gVWaMRQ"><span id="ctl00_ctl08_ctl33_ctl04_ctl09_ctl02_linkTitle">Seguici su YouTube</span></a></li>
+											</ul><strong class="title">Tool</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Copertura di portafogli con i Turbo Certificates&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;ddbd4c6c-7003-42fc-9ee2-c21dcfa5ce92&quot;}" href="/IT/IT/Servizi/Tool/Copertura_Turbo_Certificates/"><span id="ctl00_ctl08_ctl33_ctl04_ctl11_ctl00_linkTitle">Copertura di portafogli con i Turbo Certificates</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Simulatore Leva Fissa&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;0f1148cb-4c5d-41d7-9d0a-baf90ebe44d5&quot;}" href="/IT/IT/Area_Formazione/Simulatore_Leva/"><span id="ctl00_ctl08_ctl33_ctl04_ctl11_ctl01_linkTitle">Simulatore Leva Fissa</span></a></li>
+											</ul>
+										</div>
+									</div>
+								</div></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Formazione&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;ddf8f445-2022-4c9a-88d9-cddada3b3c77&quot;}" href="/IT/IT/Area_Formazione/"><span id="ctl00_ctl08_ctl33_ctl05_linkTitle">Formazione</span></a><div class="drop">
+									<div class="drop-product">
+										<div class="frame">
+											<strong class="title">Introduzione ai Certificati</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Prodotti a Leva&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;93c8adf4-e54d-4350-8165-b6b38edbf27a&quot;}" href="/IT/IT/showpage.aspx?pageID=366"><span id="ctl00_ctl08_ctl33_ctl05_ctl05_ctl00_linkTitle">Prodotti a Leva</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Prodotti di Investimento&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;8d67a7a1-2a26-494c-92f6-9dd6f99cdf7b&quot;}" href="/IT/IT/showpage.aspx?pageID=367"><span id="ctl00_ctl08_ctl33_ctl05_ctl05_ctl01_linkTitle">Prodotti di Investimento</span></a></li>
+											</ul><strong class="title">Prodotti a Leva</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Covered Warrant&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;68802311-c115-408b-9654-f7065bd8c6cc&quot;}" href="/IT/IT/Area_Formazione/Prodotti_a_leva/Covered_Warrant/"><span id="ctl00_ctl08_ctl33_ctl05_ctl07_ctl00_linkTitle">Covered Warrant</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Leva Fissa Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;e8452d7d-3ef0-4317-b94f-c1b215eeebdb&quot;}" href="/IT/IT/Area_Formazione/Prodotti_a_leva/Leva_Fissa_Certificate/"><span id="ctl00_ctl08_ctl33_ctl05_ctl07_ctl01_linkTitle">Leva Fissa Certificate</span></a></li>
+											</ul><strong class="title">Prodotti di Investimento</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Tracker &amp; Strategic Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;820fbe1a-154f-4f8b-9a44-9ccf6004f6c5&quot;}" href="/IT/IT/Area_Formazione/Prodotti_di_investimento/Tracker_Strategic_Certificate/"><span id="ctl00_ctl08_ctl33_ctl05_ctl09_ctl00_linkTitle">Tracker & Strategic Certificate</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Bonus &amp; Bonus Cap Certificate&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;18c3aedf-4c09-492d-a956-1fd54c6449f4&quot;}" href="/IT/IT/Area_Formazione/Prodotti_di_investimento/Bonus_Certificate/"><span id="ctl00_ctl08_ctl33_ctl05_ctl09_ctl01_linkTitle">Bonus & Bonus Cap Certificate</span></a></li>
+											</ul><strong class="title">Ulteriori Informazioni</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Scarica le Brochure&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;6e73bf27-7544-405a-9803-28a590973929&quot;}" href="/IT/IT/IT/Area_Formazione/Brochure/"><span id="ctl00_ctl08_ctl33_ctl05_ctl11_ctl00_linkTitle">Scarica le Brochure</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Orari di trading&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;6bd6e421-983d-43e7-ba9a-4cdaee2570c1&quot;}" href="/IT/IT/News_Eventi/Orari_di_trading/"><span id="ctl00_ctl08_ctl33_ctl05_ctl11_ctl01_linkTitle">Orari di trading</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Orari di valutazione&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;e3909676-83bf-4170-8bb1-8fbcd1e519b4&quot;}" href="https://certificati.vontobel.com/IT/Download/AssetStore/20a10494-0b2e-48f5-bfcf-3720eed3da65/Orari-di-valutazione.pdf" target="_blank"><span id="ctl00_ctl08_ctl33_ctl05_ctl11_ctl02_linkTitle">Orari di valutazione</span></a></li>
+											</ul><strong class="title">Domande Frequenti</strong><ul>
+												<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;sui Certificati e Covered Warrant&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;484b85a0-4fbf-4320-b816-d278e4e71f87&quot;}" href="/IT/IT/Area_Formazione/Domande_Frequenti/"><span id="ctl00_ctl08_ctl33_ctl05_ctl13_ctl00_linkTitle">sui Certificati e Covered Warrant</span></a></li>
+											</ul>
+										</div>
+									</div>
+								</div></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		<span id="ctl00_ctl09" class="mobile-header"><div class="tools">
+	<div id="ctl00_ctl09_CountrySelector" class="country-selector">
+		<select name="ctl00$ctl09$CountrySelector$countryDropDown" id="ctl00_ctl09_CountrySelector_countryDropDown">
+			<option value="Italia" class="jcf-hidden">Italia</option>
+			<option value="https://markets.vontobel.com/en-dk">Danimarca</option>
+			<option value="https://markets.vontobel.com/en-fi">Finlandia</option>
+			<option value="https://markets.vontobel.com/fr-fr">France</option>
+			<option value="https://zertifikate.vontobel.com/DE/">Germania</option>
+			<option value="https://www.vontobelwarrants.com/">Hong Kong</option>
+			<option value="https://markets.vontobel.com/en-no">Norvegia</option>
+			<option value="https://beursproducten.vontobel.com/NL/">Paesi Bassi</option>
+			<option value="https://prospectus.vontobel.com/">Repubblica Ceca</option>
+			<option value="https://derinet.vontobel.com/CH/">Svizzera</option>
+			<option value="https://markets.vontobel.com/en-se">Sweden</option>
+			<option value="https://prospectus.vontobel.com/">Ungheria</option>
+
+		</select>
+	</div><span class="website-name">Vontobel Certificati</span>
+</div><ul class="navigation">
+	<div class="logo-holder">
+		<div class="advertisement-reference">
+			Pubblicità
+		</div><div class="logo-new logo-black">
+			<a title="Home" href="/IT/IT/Home"><img src="/IT/Resources/Images/logo-black.png" alt="Home" border="0" /></a>
+		</div><div class="logo-new logo-white">
+			<a title="Home" href="/IT/IT/Home"><img src="/IT/Resources/Images/logo-white.png" alt="Home" border="0" /></a>
+		</div>
+	</div><div id="ctl00_ctl09_ctl05_GlobalSearch" class="form-search">
+		<div>
+			<input name="ctl00$ctl09$ctl05$GlobalSearch$SearchField" type="text" id="ctl00_ctl09_ctl05_GlobalSearch_SearchField" title="Per favore scrivete qui il termine ricercato." data-tracking-listener-onsearch="{&quot;action&quot;:&quot;search&quot;,&quot;category&quot;:&quot;fulltext-search&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;filter&quot;}" /><span class="submit"><input name="ctl00$ctl09$ctl05$GlobalSearch$submit" type="submit" id="ctl00_ctl09_ctl05_GlobalSearch_submit" /></span>
+		</div>
+	</div><li class="mobImage home"><span></span></li>
+</ul><div class="mainSub">
+	<div class="mobSub home">
+		<div class="subMenu">
+			<ul>
+				<li class="root"><a href="/IT/IT/Home">Home</a></li><li><a data-href="#menu1" href="/IT/IT/showpage.aspx?pageID=701"><span>Prodotti</span></a><a class="plus" href="#menu1" data-href="#menu1"><span>»</span></a><div id="menu1" class="subMenu">
+					<ul>
+						<li class="previousMenu">Prodotti</li><li><a href="/IT/IT/Prodotti/Prodotti_Leva/Leva_Fissa_Certificate"><span>Leva Fissa Certificate</span></a></li><li><a href="/IT/IT/Prodotti/Prodotti_Leva/Covered_Warrant"><span>Covered Warrant</span></a></li><li><a href="/IT/IT/Prodotti/Ricerca_prodotti/Lista_sottostanti"><span>Lista Sottostanti</span></a></li><li><a href="/IT/IT/Prodotti/Ricerca_prodotti/Documentazione_legale"><span>Prospetti, Supplementi etc.</span></a></li><li><a href="/IT/IT/Informazioni_legali/Avvisi_-_Notice"><span>Avvisi - Notice</span></a></li>
+					</ul>
+				</div></li><li><a data-href="#menu7" href="/IT/IT/Investv/Ultima_puntata"><span>Investv</span></a><a class="plus" href="#menu7" data-href="#menu7"><span>»</span></a><div id="menu7" class="subMenu">
+					<ul>
+						<li class="previousMenu">Investv</li><li><a data-href="#menu8" href="/IT/IT/Investv/Puntate"><span>Puntate</span></a><a class="plus" href="#menu8" data-href="#menu8"><span>»</span></a><div id="menu8" class="subMenu">
+							<ul>
+								<li class="previousMenu">Puntate</li><li><a href="/IT/IT/Investv/Ultima_puntata"><span>Ultima Puntata</span></a></li><li><a href="/IT/IT/Investv/Archivio_Puntate"><span>Archivio Puntate</span></a></li><li><a href="/IT/IT/Investv/Il_Luned%c3%ac_del_Trading"><span>Il Lunedì del Trading</span></a></li>
+							</ul>
+						</div></li><li><a data-href="#menu12" href="/IT/IT/Investv/Altro"><span>Altro</span></a><a class="plus" href="#menu12" data-href="#menu12"><span>»</span></a><div id="menu12" class="subMenu">
+							<ul>
+								<li class="previousMenu">Altro</li><li><a href="/IT/IT/Investv/Informazioni"><span>Informazioni</span></a></li><li><a href="/IT/IT/Investv/Trader"><span>Trader di Investv</span></a></li><li><a href="/IT/IT/Investv/Punteggi"><span>Punteggi</span></a></li>
+							</ul>
+						</div></li>
+					</ul>
+				</div></li><li><a href="/IT/IT/news_analisi_tecniche"><span>News & Analisi</span></a></li><li><a data-href="#menu17" href="/IT/IT/Info_Eventi"><span>Servizi</span></a><a class="plus" href="#menu17" data-href="#menu17"><span>»</span></a><div id="menu17" class="subMenu">
+					<ul>
+						<li class="previousMenu">Servizi</li><li><a data-href="#menu18" href="/IT/IT/Servizi/Eventi_Webinar"><span>Eventi & Webinar</span></a><a class="plus" href="#menu18" data-href="#menu18"><span>»</span></a><div id="menu18" class="subMenu">
+							<ul>
+								<li class="previousMenu">Eventi & Webinar</li><li><a href="/IT/IT/News_Eventi/Eventi"><span>Prossimi Eventi & Webinar</span></a></li><li><a href="/IT/IT/News_Eventi/Archivio_Webinar"><span>Archivio webinar e video</span></a></li>
+							</ul>
+						</div></li><li><a href="/IT/IT/Watchlist_Preferiti/IMieiProdotti" target="_self"><span>Watchlist</span><span class="exitIcon"></span></a></li><li><a data-href="#menu22" href="/IT/IT/showpage.aspx?pageID=350"><span>Social Media</span></a><a class="plus" href="#menu22" data-href="#menu22"><span>»</span></a><div id="menu22" class="subMenu">
+							<ul>
+								<li class="previousMenu">Social Media</li><li><a href="https://twitter.com/Vontobel_SP_IT" target="_blank"><span>Seguici su Twitter</span><span class="exitIcon"></span></a></li><li><a href="https://www.facebook.com/Vontobel.certificati" target="_blank"><span>Seguici su Facebook</span><span class="exitIcon"></span></a></li><li><a href="https://www.youtube.com/channel/UC4IYY1WChszpb3R1gVWaMRQ"><span>Seguici su YouTube</span></a></li>
+							</ul>
+						</div></li><li><a data-href="#menu26" href="/IT/IT/showpage.aspx?pageID=421"><span>Tool</span></a><a class="plus" href="#menu26" data-href="#menu26"><span>»</span></a><div id="menu26" class="subMenu">
+							<ul>
+								<li class="previousMenu">Tool</li><li><a href="/IT/IT/Servizi/Tool/Copertura_Turbo_Certificates"><span>Copertura di portafogli con i Turbo Certificates</span></a></li><li><a href="/IT/IT/Area_Formazione/Simulatore_Leva"><span>Simulatore Leva Fissa</span></a></li>
+							</ul>
+						</div></li>
+					</ul>
+				</div></li><li><a data-href="#menu29" href="/IT/IT/Area_Formazione"><span>Formazione</span></a><a class="plus" href="#menu29" data-href="#menu29"><span>»</span></a><div id="menu29" class="subMenu">
+					<ul>
+						<li class="previousMenu">Formazione</li><li><a data-href="#menu30" href="/IT/IT/Area_Formazione/introduzione_ai_Certificati"><span>Introduzione ai Certificati</span></a><a class="plus" href="#menu30" data-href="#menu30"><span>»</span></a><div id="menu30" class="subMenu">
+							<ul>
+								<li class="previousMenu">Introduzione ai Certificati</li><li><a href="/IT/IT/showpage.aspx?pageID=366"><span>Prodotti a Leva</span></a></li><li><a href="/IT/IT/showpage.aspx?pageID=367"><span>Prodotti di Investimento</span></a></li>
+							</ul>
+						</div></li><li><a data-href="#menu33" href="/IT/IT/Area_Formazione/Prodotti_a_leva"><span>Prodotti a Leva</span></a><a class="plus" href="#menu33" data-href="#menu33"><span>»</span></a><div id="menu33" class="subMenu">
+							<ul>
+								<li class="previousMenu">Prodotti a Leva</li><li><a href="/IT/IT/Area_Formazione/Prodotti_a_leva/Covered_Warrant"><span>Covered Warrant</span></a></li><li><a href="/IT/IT/Area_Formazione/Prodotti_a_leva/Leva_Fissa_Certificate"><span>Leva Fissa Certificate</span></a></li>
+							</ul>
+						</div></li><li><a data-href="#menu36" href="/IT/IT/Area_Formazione/Prodotti_di_investimento"><span>Prodotti di Investimento</span></a><a class="plus" href="#menu36" data-href="#menu36"><span>»</span></a><div id="menu36" class="subMenu">
+							<ul>
+								<li class="previousMenu">Prodotti di Investimento</li><li><a href="/IT/IT/Area_Formazione/Prodotti_di_investimento/Tracker_Strategic_Certificate"><span>Tracker & Strategic Certificate</span></a></li><li><a href="/IT/IT/Area_Formazione/Prodotti_di_investimento/Bonus_Certificate"><span>Bonus & Bonus Cap Certificate</span></a></li>
+							</ul>
+						</div></li><li><a data-href="#menu39" href="/IT/IT/showpage.aspx?pageID=370"><span>Ulteriori Informazioni</span></a><a class="plus" href="#menu39" data-href="#menu39"><span>»</span></a><div id="menu39" class="subMenu">
+							<ul>
+								<li class="previousMenu">Ulteriori Informazioni</li><li><a href="/IT/IT/IT/Area_Formazione/Brochure"><span>Scarica le Brochure</span></a></li><li><a href="/IT/IT/News_Eventi/Orari_di_trading"><span>Orari di trading</span></a></li><li><a href="https://certificati.vontobel.com/IT/Download/AssetStore/20a10494-0b2e-48f5-bfcf-3720eed3da65/Orari-di-valutazione.pdf" target="_blank"><span>Orari di valutazione</span><span class="exitIcon"></span></a></li>
+							</ul>
+						</div></li><li><a data-href="#menu43" href="/IT/IT/showpage.aspx?pageID=371"><span>Domande Frequenti</span></a><a class="plus" href="#menu43" data-href="#menu43"><span>»</span></a><div id="menu43" class="subMenu">
+							<ul>
+								<li class="previousMenu">Domande Frequenti</li><li><a href="/IT/IT/Area_Formazione/Domande_Frequenti"><span>sui Certificati e Covered Warrant</span></a></li>
+							</ul>
+						</div></li>
+					</ul>
+				</div></li><li><a href="/IT/IT/Watchlist_Preferiti/IMieiProdotti" target="_self"><span>Watchlist</span><span class="exitIcon"></span></a></li>
+			</ul>
+		</div>
+	</div>
+</div></span>
+		<div class="main-header-content">
+			<div>
+	<div class="column-header">
+
+	</div><div class="column-clear">
+
+	</div>
+</div>
+		</div>
+		<div class="w1 test">
+			<div class="w2">
+				<div class="wrapper">
+					<div class="main">
+						<div class="bg-gray">
+							<div class="tools-row">
+								<div class="holder">
+									<ul class="tools-nav">
+	<li><div class="tooltip-holder">
+		<span class="tooltip"><span>Clicca qui per stampare l'elenco dei prodotti aggiornato.</span></span><a class="print" onclick="window.print();return false;">Stampare</a>
+	</div></li><li><div class="tooltip-holder">
+		<span id="ctl00_ctl10_ctl01_ctl01"><input type="hidden" name="ctl00$ctl10$ctl01$ctl01$ctl00" value="False" /><a onclick="$get(&#39;ctl00_ctl10_ctl01_ctl01&#39;).control.DoPostbackToTargetWindow(&#39;ctl00$ctl10$ctl01$ctl01$ctl01&#39;, &#39;_blank&#39;); return false;" class="pdf" href="javascript:__doPostBack(&#39;ctl00$ctl10$ctl01$ctl01$ctl01&#39;,&#39;&#39;)">I18N_ToolsControl: PDF</a></span>
+	</div></li><li><div class="tooltip-holder">
+		<span class="tooltip"><span>Condividi la pagina</span></span><span class="social-media " id="ctl00_ctl10_ctl05_ctl03"><ul id="ctl00_ctl10_ctl05_ctl03">
+			<li><a class="share-button" href="#"></a><ul class="social-media-flyout" data-tracking-component="{&quot;component_id&quot;:&quot;e8e3954b-1902-4d32-a9cc-cf5d1126dd95&quot;,&quot;component_name&quot;:&quot;SocialMediaControl&quot;}">
+				<li class="title"><span>Share</span></li><li class="twitter"><a href="http://twitter.com/share?url=https%3a%2f%2fcertificati.vontobel.com%2fIT%2fIT%2fProdotti%2fDE000VU6EKD0%2f" target="_blank" data-tracking-listener-onclick="{&quot;action&quot;:&quot;share&quot;,&quot;category&quot;:&quot;social&quot;,&quot;label&quot;:&quot;twitter&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}"><span class="icon twitter">Twitter</span></a></li><li class="facebook"><a href="http://www.facebook.com/sharer.php?u=https%3a%2f%2fcertificati.vontobel.com%2fIT%2fIT%2fProdotti%2fDE000VU6EKD0%2f" target="_blank" data-tracking-listener-onclick="{&quot;action&quot;:&quot;share&quot;,&quot;category&quot;:&quot;social&quot;,&quot;label&quot;:&quot;facebook&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}"><span class="icon facebook">Facebook</span></a></li><li class="xing"><a href="https://www.xing.com/spi/shares/new?url=https%3a%2f%2fcertificati.vontobel.com%2fIT%2fIT%2fProdotti%2fDE000VU6EKD0%2f" target="_blank" data-tracking-listener-onclick="{&quot;action&quot;:&quot;share&quot;,&quot;category&quot;:&quot;social&quot;,&quot;label&quot;:&quot;xing&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}"><span class="icon xing">Xing</span></a></li><li class="linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcertificati.vontobel.com%2fIT%2fIT%2fProdotti%2fDE000VU6EKD0%2f" target="_blank" data-tracking-listener-onclick="{&quot;action&quot;:&quot;share&quot;,&quot;category&quot;:&quot;social&quot;,&quot;label&quot;:&quot;linkedin&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}"><span class="icon linkedin">LinkedIn</span></a></li>
+			</ul></li>
+		</ul></span><div id="ctl00_ctl10_ctl05_ctl04">
+			<input type="hidden" name="ctl00$ctl10$ctl05$SocialMediaLink" id="SocialMediaLink" value="https%3a%2f%2fcertificati.vontobel.com%2fIT%2fIT%2fProdotti%2fDE000VU6EKD0%2f" />
+		</div>
+	</div></li><li class="pdf-overlay"><div class="tooltip-holder">
+		<div id="ctl00_ctl10_ctl06_ctl01" class="info-drop popup-container">
+			<div id="ctl00_ctl10_ctl06_ctl01_ctl00" class="before-responsive">
+
+			</div><input type="hidden" name="ctl00$ctl10$ctl06$ctl01$selectedElementId" id="ctl00_ctl10_ctl06_ctl01_selectedElementId" /><div class="frame">
+				<div>
+					<div class="heading">
+						<strong class="title">Opzioni</strong>
+					</div><div class="area pdf">
+						<strong>PDF-Export</strong><ul>
+							<li><span id="ctl00_ctl10_ctl06_ctl01_ctl02_ctl04_ctl00_currentPage" title="Pagina attuale"><input type="hidden" name="ctl00$ctl10$ctl06$ctl01$ctl02$ctl04$ctl00$currentPage$ctl00" value="False" /><a onclick="$get(&#39;ctl00_ctl10_ctl06_ctl01_ctl02_ctl04_ctl00_currentPage&#39;).control.DoPostbackToTargetWindow(&#39;ctl00$ctl10$ctl06$ctl01$ctl02$ctl04$ctl00$currentPage$ctl01&#39;, &#39;_blank&#39;); return false;" href="javascript:__doPostBack(&#39;ctl00$ctl10$ctl06$ctl01$ctl02$ctl04$ctl00$currentPage$ctl01&#39;,&#39;&#39;)">Pagina attuale</a></span></li>
+						</ul>
+					</div><div class="responsibility pdf">
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div></li>
+</ul>
+									<ul class="breadcrumbs">
+	<li><a href="/IT/IT/Home">Home</a></li><li><a href="/IT/IT/Prodotti">Prodotti</a></li><li><a href="/IT/IT/IT/Prodotti/Ricerca_prodotti/Prodotti_di_Investimento">Prodotti di Investimento</a></li><li class="current">Memory Cash Collect Express Certificate su Renault, Stellantis</li>
+</ul>
+								</div>
+								<a class="link-back-button button" href="/IT/IT/Home">Indietro</a>
+							</div>
+							<div class="product-block product-info">
+								<div>
+	<div class="column-productHead">
+		<div data-tracking-component="{&quot;component_id&quot;:&quot;28480085-9e60-449d-b374-d84edfdceaa1&quot;,&quot;component_name&quot;:&quot;DerivativeDetailsHeaderControl&quot;,&quot;component_instance_id&quot;:&quot;8b8190c2-1b4c-4a12-8b3a-5e8b24330555&quot;,&quot;component_is_relevant&quot;:true}" data-tracking-information="{&quot;asset_type&quot;:&quot;structured-product&quot;,&quot;asset_value&quot;:&quot;DE000VU6EKD0&quot;}">
+			<h1>
+				Memory Cash Collect Express Certificate su Renault, Stellantis
+			</h1><div class="meta-information">
+				<span id="trvt_pr_type" data-productgroup="investment-product" style="display: none">Cash Collect Express Certificates</span><ul class="meta">
+					<li><div class="panel-float-left">
+						Codice <span onclick="copyStringToClipboard(&#39;F36092&#39;,&#39;NSIN successfully added to the clipboard!&#39;)" title="Copy NSIN to clipboard" data-tracking-component="{&quot;component_name&quot;:&quot;CopyButton&quot;,&quot;component_instance_name&quot;:&quot;CopyNsinToClipboard&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;copy&quot;,&quot;category&quot;:&quot;product&quot;,&quot;label&quot;:&quot;DE000VU6EKD0&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;button&quot;,&quot;conversionId&quot;:&quot;pd-product-copy&quot;}">F36092</span>
+					</div><div class="copy-to-clipboard" onclick="copyStringToClipboard(&#39;F36092&#39;,&#39;NSIN successfully added to the clipboard!&#39;)" title="Copy NSIN to clipboard" data-tracking-component="{&quot;component_name&quot;:&quot;CopyButton&quot;,&quot;component_instance_name&quot;:&quot;CopyNsinToClipboard&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;copy&quot;,&quot;category&quot;:&quot;product&quot;,&quot;label&quot;:&quot;DE000VU6EKD0&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;button&quot;,&quot;conversionId&quot;:&quot;pd-product-copy&quot;}">
+						<div class="copy-to-clipboard-icon">
+
+						</div>
+					</div></li><li><div class="panel-float-left">
+						ISIN <span onclick="copyStringToClipboard(&#39;DE000VU6EKD0&#39;,&#39;ISIN successfully added to the clipboard!&#39;)" title="Copy ISIN to clipboard" data-tracking-component="{&quot;component_name&quot;:&quot;CopyButton&quot;,&quot;component_instance_name&quot;:&quot;CopyIsinToClipboard&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;copy&quot;,&quot;category&quot;:&quot;product&quot;,&quot;label&quot;:&quot;DE000VU6EKD0&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;button&quot;,&quot;conversionId&quot;:&quot;pd-product-copy&quot;}">DE000VU6EKD0</span>
+					</div><div class="copy-to-clipboard" onclick="copyStringToClipboard(&#39;DE000VU6EKD0&#39;,&#39;ISIN successfully added to the clipboard!&#39;)" title="Copy ISIN to clipboard" data-tracking-component="{&quot;component_name&quot;:&quot;CopyButton&quot;,&quot;component_instance_name&quot;:&quot;CopyIsinToClipboard&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;copy&quot;,&quot;category&quot;:&quot;product&quot;,&quot;label&quot;:&quot;DE000VU6EKD0&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;button&quot;,&quot;conversionId&quot;:&quot;pd-product-copy&quot;}">
+						<div class="copy-to-clipboard-icon">
+
+						</div>
+					</div></li>
+				</ul>
+			</div><div id="ctl00_ctl22_ctl07_QuoteStreamGrid">
+				<div class="layout full product-header">
+					<div class="column two price">
+						<div class="row trade">
+							<div>
+								<div class="box">
+									<span class="title">Denaro</span><span class="strong value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000010D00DE000VU6EKD0" data-field="bid"></span><span class="info"></span><div class="size">
+										<span class="size-value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000010D00DE000VU6EKD0" data-field="bidsize"></span><span class="size-text-left">Size</span>
+									</div>
+								</div><div class="box">
+									<span class="title">Lettera</span><span class="strong value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000010D00DE000VU6EKD0" data-field="ask"></span><span class="info"></span><div class="size">
+										<span class="size-value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000010D00DE000VU6EKD0" data-field="asksize"></span><span class="size-text-left">Size</span>
+									</div>
+								</div><div class="box small">
+									<span class="title">Valuta</span><span class="strong value">EUR</span>
+								</div><div class="box last small">
+									<span class="title">Aggiornato alle</span><span class="strong value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000010D00DE000VU6EKD0" data-field="quotetime"></span>
+								</div><div class="infoLayerButton table">
+									<div class="add3-area large">
+										<div class="tradingPartnersContainer">
+											<div class="tradingPartnersButton sell">
+												Vendi
+											</div><div class="tradingPartnersButton buy">
+												Compra
+											</div>
+										</div><div class="trade-overlays">
+											<div id="ctl00_ctl22_ctl07_ctl06_ctl25" class="info-drop short popup-container">
+												<div id="ctl00_ctl22_ctl07_ctl06_ctl25_ctl00" class="before-responsive">
+
+												</div><input type="hidden" name="ctl00$ctl22$ctl07$ctl06$ctl25$selectedElementId" id="ctl00_ctl22_ctl07_ctl06_ctl25_selectedElementId" /><div class="frame">
+													<div id="ctl00_ctl22_ctl07_ctl06_ctl25_ctl02" class="area instrumentTradeLayer">
+														<div id="ctl00_ctl22_ctl07_ctl06_ctl25_ctl02_ctl00">
+															<div class="ItemPanel">
+																<img class="SmallLogo" src="/IT/MediaLibrary/b71f43fa-5851-4133-ac70-c4a0ee729ce5/1200x630wa.jpg" alt="IWBank" border="0" /><a class="SellLink" data-tracking-listener-onclick="{&quot;action&quot;:&quot;sell&quot;,&quot;category&quot;:&quot;link-broker&quot;,&quot;label&quot;:&quot;IWBank&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;conversionId&quot;:&quot;pd-product-buy-sell&quot;}" href="https://www.iwbank.it/vontobel-certificate" target="_blank"><span class="LeftPanel">IWBank</span></a><div class="ClearFix">
+
+																</div>
+															</div><div class="ItemPanel">
+																<img class="SmallLogo" src="/IT/MediaLibrary/3fc8662b-c9cf-410b-80ca-16f2080f6c51/poste-1.png" alt="Poste Italiane" border="0" /><a class="SellLink" data-tracking-listener-onclick="{&quot;action&quot;:&quot;sell&quot;,&quot;category&quot;:&quot;link-broker&quot;,&quot;label&quot;:&quot;Poste Italiane&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;conversionId&quot;:&quot;pd-product-buy-sell&quot;}" href="https://www.poste.it/prodotti/trading-online-bancoposta.html" target="_blank"><span class="LeftPanel">Poste Italiane</span></a><div class="ClearFix">
+
+																</div>
+															</div><div class="ItemPanel">
+																<img class="SmallLogo" src="/IT/MediaLibrary/90ab4db6-4048-4aa1-b1c8-c23aa56ec1b6/directa%20logo.jpg" alt="Directa" border="0" /><a class="SellLink" data-tracking-listener-onclick="{&quot;action&quot;:&quot;sell&quot;,&quot;category&quot;:&quot;link-broker&quot;,&quot;label&quot;:&quot;Directa&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;conversionId&quot;:&quot;pd-product-buy-sell&quot;}" href="http://www.directa.it/" target="_blank"><span class="LeftPanel">Directa</span></a><div class="ClearFix">
+
+																</div>
+															</div><div class="ItemPanel">
+																<img class="SmallLogo" src="/IT/MediaLibrary/c593d77e-4c18-4022-a11d-6ff0849675ed/binck_roer_291x282.gif" alt="Binck" border="0" /><a class="SellLink" data-tracking-listener-onclick="{&quot;action&quot;:&quot;sell&quot;,&quot;category&quot;:&quot;link-broker&quot;,&quot;label&quot;:&quot;Binck&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;conversionId&quot;:&quot;pd-product-buy-sell&quot;}" href="https://www.binck.it/" target="_blank"><span class="LeftPanel">Binck</span></a><div class="ClearFix">
+
+																</div>
+															</div>
+														</div><div id="ctl00_ctl22_ctl07_ctl06_ctl25_ctl02_ctl02" class="hpTooltip">
+															<div class="ttArrow">
+
+															</div>Attenzione: sta lasciando il sito internet dei Certificati Vontobel, pertanto Vontobel non è responsabile dei siti internet di cui sopra e non se ne assume alcuna responsabilità.
+														</div>
+													</div>
+												</div>
+											</div><div id="ctl00_ctl22_ctl07_ctl06_ctl26" class="info-drop short popup-container">
+												<div id="ctl00_ctl22_ctl07_ctl06_ctl26_ctl00" class="before-responsive">
+
+												</div><input type="hidden" name="ctl00$ctl22$ctl07$ctl06$ctl26$selectedElementId" id="ctl00_ctl22_ctl07_ctl06_ctl26_selectedElementId" /><div class="frame">
+													<div id="ctl00_ctl22_ctl07_ctl06_ctl26_ctl02" class="area instrumentTradeLayer">
+														<div id="ctl00_ctl22_ctl07_ctl06_ctl26_ctl02_ctl00">
+															<div class="ItemPanel">
+																<img class="SmallLogo" src="/IT/MediaLibrary/b71f43fa-5851-4133-ac70-c4a0ee729ce5/1200x630wa.jpg" alt="IWBank" border="0" /><a class="BuyLink" data-tracking-listener-onclick="{&quot;action&quot;:&quot;buy&quot;,&quot;category&quot;:&quot;link-broker&quot;,&quot;label&quot;:&quot;IWBank&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;conversionId&quot;:&quot;pd-product-buy-sell&quot;}" href="https://www.iwbank.it/vontobel-certificate" target="_blank"><span class="LeftPanel">IWBank</span></a><div class="ClearFix">
+
+																</div>
+															</div><div class="ItemPanel">
+																<img class="SmallLogo" src="/IT/MediaLibrary/3fc8662b-c9cf-410b-80ca-16f2080f6c51/poste-1.png" alt="Poste Italiane" border="0" /><a class="BuyLink" data-tracking-listener-onclick="{&quot;action&quot;:&quot;buy&quot;,&quot;category&quot;:&quot;link-broker&quot;,&quot;label&quot;:&quot;Poste Italiane&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;conversionId&quot;:&quot;pd-product-buy-sell&quot;}" href="https://www.poste.it/prodotti/trading-online-bancoposta.html" target="_blank"><span class="LeftPanel">Poste Italiane</span></a><div class="ClearFix">
+
+																</div>
+															</div><div class="ItemPanel">
+																<img class="SmallLogo" src="/IT/MediaLibrary/90ab4db6-4048-4aa1-b1c8-c23aa56ec1b6/directa%20logo.jpg" alt="Directa" border="0" /><a class="BuyLink" data-tracking-listener-onclick="{&quot;action&quot;:&quot;buy&quot;,&quot;category&quot;:&quot;link-broker&quot;,&quot;label&quot;:&quot;Directa&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;conversionId&quot;:&quot;pd-product-buy-sell&quot;}" href="http://www.directa.it/" target="_blank"><span class="LeftPanel">Directa</span></a><div class="ClearFix">
+
+																</div>
+															</div><div class="ItemPanel">
+																<img class="SmallLogo" src="/IT/MediaLibrary/c593d77e-4c18-4022-a11d-6ff0849675ed/binck_roer_291x282.gif" alt="Binck" border="0" /><a class="BuyLink" data-tracking-listener-onclick="{&quot;action&quot;:&quot;buy&quot;,&quot;category&quot;:&quot;link-broker&quot;,&quot;label&quot;:&quot;Binck&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;conversionId&quot;:&quot;pd-product-buy-sell&quot;}" href="https://www.binck.it/" target="_blank"><span class="LeftPanel">Binck</span></a><div class="ClearFix">
+
+																</div>
+															</div>
+														</div><div id="ctl00_ctl22_ctl07_ctl06_ctl26_ctl02_ctl02" class="hpTooltip">
+															<div class="ttArrow">
+
+															</div>Attenzione: sta lasciando il sito internet dei Certificati Vontobel, pertanto Vontobel non è responsabile dei siti internet di cui sopra e non se ne assume alcuna responsabilità.
+														</div>
+													</div>
+												</div>
+											</div>
+										</div><div id="ctl00_ctl22_ctl07_ctl06_ctl27" class="open ctl00_ctl23">
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div><div>
+							<ul class="icons-list classification">
+								<li><div class="icon m">
+
+								</div><span class="text">Osservazione della barriera alla scadenza</span></li><li><div class="icon ac">
+
+								</div><span class="text">Autocallable</span></li>
+							</ul>
+						</div>
+					</div><div class="underlying-price-background">
+
+					</div><span id="ctl00_ctl22_ctl07_ctl10" class="column one underlying price"><div class="row slider-container">
+						<div class="slider-wrapper">
+							<div class="box slider-item active">
+								<span class="title">Renault SA</span><span class="strong value">EUR&nbsp;</span><span class="strong value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000050D00FR0000131906" data-field="valuation"></span><div class="price-time">
+									<span class="price-time-value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000050D00FR0000131906" data-field="quotetime"></span>
+								</div>
+							</div><div class="box slider-item">
+								<span class="title">Stellantis N.V.</span><span class="strong value">EUR&nbsp;</span><span class="strong value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000050D00NL00150001Q9" data-field="valuation"></span><div class="price-time">
+									<span class="price-time-value" data-source="lightstreamer" data-grid="ctl00_ctl22_ctl07_QuoteStreamGrid" data-item="X0000050D00NL00150001Q9" data-field="quotetime"></span>
+								</div>
+							</div>
+						</div>
+					</div><div class="row slider-buttons">
+						<a class="prev" href="../../../MasterPages/#"></a><a class="next" href="../../../MasterPages/#"></a>
+					</div><div class="row price-disclaimer">
+						<span>Si prega di notare che quanto sopra è una mera indicazione di prezzo.</span>
+					</div></span><span id="ctl00_ctl22_ctl07_DocumentsDesktop" class="column one document flyout" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentControl&quot;}"><h2>
+						Documentazione
+					</h2><ul class="product-document-download accordion doc-list">
+						<li class="doc-item has-subnav"><a class="opener" href="#"><span>Condizioni Definitive</span></a><div class="slide">
+							<ul class="accordion">
+								<li><span class="reference-date">24/04/2023</span><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269665&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Condizioni Definitive|56654743.en&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/finalterms/DE000VU6EKD0e.pdf" target="_blank">en</a></li>
+							</ul>
+						</div></li><li class="doc-item has-subnav"><a class="opener" href="#"><span>Documento contenente le Informazioni Chiave</span></a><div class="slide">
+							<ul class="accordion">
+								<li class=" open-close" data-instant="true" data-close-on-escape="true"><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269630&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654734.it&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=it" target="_blank">it</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269627&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654732.en&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=en" target="_blank">en</a><a class="more-languages-opener" target="#"><span class="open-languages">more</span><span class="close-languages">less</span></a><div class="slide more-languages-list-wrapper" style="display:none;">
+									<ul class="slide more-languages-list">
+										<a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269636&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654740.cs&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=cs" target="_blank">cs</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269635&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654739.da&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=da" target="_blank">da</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269626&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654731.de&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=de" target="_blank">de</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269638&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654742.es&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=es" target="_blank">es</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269632&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654736.fi&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=fi" target="_blank">fi</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269629&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654733.fr&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=fr" target="_blank">fr</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269637&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654741.hu&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=hu" target="_blank">hu</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269633&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654737.nl&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=nl" target="_blank">nl</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269634&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654738.no&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=no" target="_blank">no</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269631&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654735.sv&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=sv" target="_blank">sv</a>
+									</ul>
+								</div></li>
+							</ul>
+						</div></li><li class="doc-item has-subnav"><a class="opener" href="#"><span>Prospetto base</span></a><div class="slide">
+							<ul class="accordion">
+								<li><span class="reference-date">20/05/2023</span><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;-1&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Prospetto base|57533758.en&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/baseprospectus/97.pdf" target="_blank">en</a></li>
+							</ul>
+						</div></li>
+					</ul></span>
+				</div>
+			</div>
+		</div><div>
+			<div class="layout full column-LayoutFull">
+				<div>
+					<div class="column three column-ColumnThree">
+						<div>
+
+						</div>
+					</div><div class="column one column-ColumnOne">
+
+					</div><div class="column-clear">
+
+					</div>
+				</div>
+			</div><div class="column-clear">
+
+			</div>
+		</div>
+	</div><div class="column-clear">
+
+	</div>
+</div>
+							</div>
+						</div>
+						<div class="main-holder">
+							<div class="product-block">
+								<div>
+	<div class="column-productBody">
+		<div class="container-control" data-tracking-component="{&quot;component_id&quot;:&quot;17e0234d-59d1-4392-81cc-8cc387d64b21&quot;,&quot;component_name&quot;:&quot;DerivativeDetailsContainerControl&quot;,&quot;component_instance_id&quot;:&quot;004f50d1-2de5-4251-b672-df38a7407466&quot;,&quot;component_is_relevant&quot;:true}">
+			<div>
+				<div id="ctl00_ctl22_ctl00_ctl00_ctl01" class="tabs">
+					<div id="ctl00_ctl22_ctl00_ctl00_ctl01_header">
+						<span id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><span class="ajax__tab_tab" id="__tab_ctl00_ctl22_ctl00_ctl00_ctl01_ctl00"><a class=" track-virtual" onclick="return false;" data-tracking-component="{&quot;component_name&quot;:&quot;Tab&quot;,&quot;component_instance_name&quot;:&quot;Dettagli&quot;}" data-tracking-listener-onclick="{&quot;nonInteraction&quot;:&quot;false&quot;}" data-track="{&quot;pageName&quot;:&quot;Memory Cash Collect Express Certificate on Renault, Stellantis&quot;,&quot;pageUrl&quot;:&quot;/IT/IT/Prodotti/DE000VU6EKD0?Tab=Dettagli&quot;,&quot;pageType&quot;:&quot;Content-Page&quot;}" href="/IT/IT/Prodotti/DE000VU6EKD0?Tab=Dettagli">Dettagli</a></span></span></span></span><span id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl01_tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><span class="ajax__tab_tab" id="__tab_ctl00_ctl22_ctl00_ctl00_ctl01_ctl01"><a class=" track-virtual" onclick="return false;" data-tracking-component="{&quot;component_name&quot;:&quot;Tab&quot;,&quot;component_instance_name&quot;:&quot;Sottostante&quot;}" data-tracking-listener-onclick="{&quot;nonInteraction&quot;:&quot;false&quot;}" data-track="{&quot;pageName&quot;:&quot;Memory Cash Collect Express Certificate on Renault, Stellantis&quot;,&quot;pageUrl&quot;:&quot;/IT/IT/Prodotti/DE000VU6EKD0?Tab=Sottostante&quot;,&quot;pageType&quot;:&quot;Content-Page&quot;}" href="/IT/IT/Prodotti/DE000VU6EKD0?Tab=Sottostante">Sottostante</a></span></span></span></span><span id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl02_tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><span class="ajax__tab_tab" id="__tab_ctl00_ctl22_ctl00_ctl00_ctl01_ctl02"><a class=" track-virtual" onclick="return false;" data-tracking-component="{&quot;component_name&quot;:&quot;Tab&quot;,&quot;component_instance_name&quot;:&quot;Comunicazioni legate al prodotto&quot;}" data-tracking-listener-onclick="{&quot;nonInteraction&quot;:&quot;false&quot;}" data-track="{&quot;pageName&quot;:&quot;Memory Cash Collect Express Certificate on Renault, Stellantis&quot;,&quot;pageUrl&quot;:&quot;/IT/IT/Prodotti/DE000VU6EKD0?Tab=Comunicazioni legate al prodotto&quot;,&quot;pageType&quot;:&quot;Content-Page&quot;}" href="/IT/IT/Prodotti/DE000VU6EKD0?Tab=Comunicazioni legate al prodotto">Comunicazioni legate al prodotto</a></span></span></span></span>
+					</div><div id="ctl00_ctl22_ctl00_ctl00_ctl01_body">
+						<div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00" class="ajax__tab_panel">
+							<div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl00" data-tracking-component="{&quot;component_name&quot;:&quot;Tab&quot;,&quot;component_instance_name&quot;:&quot;Dettagli&quot;}">
+								<div>
+									<div>
+										<div class="derivativeDetails">
+											<div class="layout full key-data-desktop">
+												<div class="column one">
+													<span><table class="details-list" border="0">
+														<tr>
+															<td class="header" colspan="2">Ciclo di vita</td>
+														</tr><tr>
+															<th><span class="title">Data di valutazione iniziale</span></th><td>24/04/2023</td>
+														</tr><tr>
+															<th><span class="title">Primo giorno di Negoziazione</span></th><td>26/04/2023</td>
+														</tr><tr>
+															<th><span class="title">Data di Scadenza</span></th><td>24/10/2024</td>
+														</tr><tr class="last">
+															<th><span class="title">Data di Liquidazione</span></th><td>31/10/2024</td>
+														</tr>
+													</table></span>
+												</div><div class="column one">
+													<span><table class="details-list" border="0">
+														<tr>
+															<td class="header" colspan="2">Autocall</td>
+														</tr><tr>
+															<th><span class="title">Livello di Rimborso Anticipato (in %)</span></th><td>100,00%</td>
+														</tr><tr>
+															<th><span class="title">Prossima Data di Valutazione</span></th><td>24/07/2023</td>
+														</tr><tr class="last">
+															<th><span class="title">Data di Valutazione Successiva</span></th><td>24/08/2023</td>
+														</tr>
+													</table></span>
+												</div><div class="column one">
+													<span><table class="details-list" border="0">
+														<tr>
+															<td class="header" colspan="2">Caratteristiche di sostenibilit&#224;</td>
+														</tr><tr class="last">
+															<td>--</td>
+														</tr>
+													</table></span>
+												</div>
+											</div><div>
+												<h2>
+													Informazioni sul Prezzo
+												</h2><div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14" class="ChartContainer">
+													<div class="ChartPanel ChartPanelClass" id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ChartPanel">
+														<div>
+															<div class="form form-filter2">
+																<div class="holder">
+																	<div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_chartbuttons" class="ChartButtons">
+																		<table class="range-buttons" cellspacing="0" cellpadding="0" border="0">
+																			<tr class="button">
+																				<td><span value="1" isIntraday="true">Intraday</span></td><td><span value="2" isIntraday="false">1 settimana</span></td><td><span value="3" isIntraday="false">1 mese</span></td><td><span value="0" isIntraday="false">dall'emissione</span></td>
+																			</tr>
+																		</table><div class="range-dropdown">
+																			<select name="ctl00$ctl22$ctl00$ctl00$ctl01$ctl00$ctl04$ctl00$ctl14$ctl10">
+																				<option value="1" isIntraday="true">Intraday</option>
+																				<option value="2" isIntraday="false">1 settimana</option>
+																				<option value="3" isIntraday="false">1 mese</option>
+																				<option value="0" isIntraday="false">dall&#39;emissione</option>
+
+																			</select>
+																		</div>
+																	</div><div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11" class="chartDatepicker">
+																		<input name="ctl00$ctl22$ctl00$ctl00$ctl01$ctl00$ctl04$ctl00$ctl14$ctl11$from" type="text" id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11_from" /><span id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11_ctl00" class="icon"></span><span class="datePickerLabel">al</span><input name="ctl00$ctl22$ctl00$ctl00$ctl01$ctl00$ctl04$ctl00$ctl14$ctl11$to" type="text" id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11_to" /><span id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11_ctl02" class="icon"></span>
+																	</div>
+																</div>
+															</div><div class="graph-area layout full">
+																<div class="graph column two">
+																	<div class="product-labels">
+																		<span class="product-label">Prodotto</span><span class="underlying-label">Sottostante</span><div class="clearfix">
+
+																		</div>
+																	</div><div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_chartarea" class="chartDiv">
+																		<p class="base chart-loading">Caricamento dei dati</p>
+																	</div><span id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl19" class="CompareType"><span class="first default"><input id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl19_0" type="radio" name="ctl00$ctl22$ctl00$ctl00$ctl01$ctl00$ctl04$ctl00$ctl14$ctl19" value="0" /><label for="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl19_0">abs</label></span><span class="default"><input id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl19_1" type="radio" name="ctl00$ctl22$ctl00$ctl00$ctl01$ctl00$ctl04$ctl00$ctl14$ctl19" value="1" /><label for="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl19_1">%</label></span></span>
+																</div><div class="column two">
+																	<div class="chartLegend form-graph graph-holder">
+																		<div class="graph-box">
+																			<table class="table graph-table ChartPerformance" border="0">
+																				<thead>
+																					<tr>
+																						<th class="title">Performance</th><th class="intraday performanceLabel"></th>
+																					</tr>
+																				</thead><tbody>
+																					<tr>
+																						<td class="name chartLegend"><label class="chartLegendColor" id="underlying_5d1a45a0-8f7c-4b5b-b4c5-a46070512479">Memory Cash Collect Express Certificate su Renault, Stellantis</label></td><td class="intraday performanceValue"></td>
+																					</tr>
+																				</tbody>
+																			</table>
+																		</div><div class="graph-box table-slide">
+																			<div class="graph-table-area">
+																				<div class="slide-area">
+																					<span><table class="table graph-table UnderlyingAtAGlance" border="0">
+																						<thead>
+																							<tr>
+																								<th class="title">Sottostante</th><th class="schlusskurs">Prezzo di Chiusura</th><th class="strike">Strike</th><th class="barriere">Barriera</th><th class="strike">Valore di Riferimento Iniziale</th><th class="ratioDominator">Multiplo</th>
+																							</tr>
+																						</thead><tbody>
+																							<tr>
+																								<td class="detailRow chartLegend"><label class="chartLegendColor" id="underlying_34833d2a-b2ae-4e3d-b8ea-c4fd58f7a774				"> Renault				</label></td><td class="schlusskurs">EUR 36,455</td><td class="strike">EUR 32,995</td><td class="barriere">EUR 18,147</td><td class="strike">EUR 32,995</td><td class="ratioDominator">3,03076</td>
+																							</tr><tr class="last">
+																								<td class="detailRow chartLegend"><label class="chartLegendColor" id="underlying_500edaf5-0572-4ca4-b293-0d4e18742bfc				"> Stellantis				</label></td><td class="schlusskurs">EUR </td><td class="strike">EUR 14,891</td><td class="barriere">EUR 8,19</td><td class="strike">EUR 14,891</td><td class="ratioDominator">6,71547</td>
+																							</tr>
+																						</tbody>
+																					</table></span>
+																				</div><div class="links-row">
+																					<a class="open table-show" target="#">mostrare altri <span class="total">X</span> sottostanti</a><a class="close table-show" target="#" style="display:none;">Nascondere <span class="total">X</span> sottostanti </a>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div><div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ChartErrorPanel" class="ChartPanel ChartPanelErrorClass">
+														<p class="base">No chart available</p>
+													</div>
+												</div>
+											</div><div class="layout full key-data-mobile">
+												<div class="column one">
+													<span><table class="details-list" border="0">
+														<tr>
+															<td class="header" colspan="2">Ciclo di vita</td>
+														</tr><tr>
+															<th><span class="title">Data di valutazione iniziale</span></th><td>24/04/2023</td>
+														</tr><tr>
+															<th><span class="title">Primo giorno di Negoziazione</span></th><td>26/04/2023</td>
+														</tr><tr>
+															<th><span class="title">Data di Scadenza</span></th><td>24/10/2024</td>
+														</tr><tr class="last">
+															<th><span class="title">Data di Liquidazione</span></th><td>31/10/2024</td>
+														</tr>
+													</table></span>
+												</div><div class="column one">
+													<span><table class="details-list" border="0">
+														<tr>
+															<td class="header" colspan="2">Autocall</td>
+														</tr><tr>
+															<th><span class="title">Livello di Rimborso Anticipato (in %)</span></th><td>100,00%</td>
+														</tr><tr>
+															<th><span class="title">Prossima Data di Valutazione</span></th><td>24/07/2023</td>
+														</tr><tr class="last">
+															<th><span class="title">Data di Valutazione Successiva</span></th><td>24/08/2023</td>
+														</tr>
+													</table></span>
+												</div><div class="column one">
+													<span><table class="details-list" border="0">
+														<tr>
+															<td class="header" colspan="2">Caratteristiche di sostenibilit&#224;</td>
+														</tr><tr class="last">
+															<td>--</td>
+														</tr>
+													</table></span>
+												</div>
+											</div><div class="layout full">
+												<div class="column two">
+													<span><table class="details-list" border="0">
+														<tr>
+															<td class="header" colspan="2">Dati</td>
+														</tr><tr>
+															<th><span class="title">Tipo di Prodotto</span></th><td>Cash Collect Express Certificates</td>
+														</tr><tr>
+															<th><span class="title">Codice di Negoziazione</span></th><td>VU6EKD</td>
+														</tr><tr>
+															<th><span class="title">ISIN</span></th><td>DE000VU6EKD0</td>
+														</tr><tr>
+															<th><span class="title">Posizione</span></th><td>Long</td>
+														</tr><tr>
+															<th>Multiplo</th><td>3,03076</td>
+														</tr><tr>
+															<th><span class="title">Taglio</span></th><td>100,00</td>
+														</tr><tr>
+															<th><span class="title">Valore di Liquidazione</span></th><td>EUR</td>
+														</tr><tr>
+															<th><span class="title">Prezzo di Emissione</span></th><td>EUR&nbsp;100,00</td>
+														</tr><tr>
+															<th><span class="title">Valore di Riferimento Iniziale</span></th><td>EUR 32,995</td>
+														</tr><tr>
+															<th><span class="title">Cedola p. a.</span></th><td>15,50%</td>
+														</tr><tr>
+															<th><span class="title">Barriera %</span></th><td>55,00%</td>
+														</tr><tr>
+															<th><span class="title">Tipo di Regolamento</span></th><td>pagamento in contanti</td>
+														</tr><tr class="last">
+															<th><span class="title">Quotazione</span></th><td>SeDeX - Borsa Italiana</td>
+														</tr>
+													</table></span>
+												</div><div class="column two">
+													<span><table class="details-list" border="0">
+														<tr>
+															<td class="header" colspan="2">Ulteriori Informazioni</td>
+														</tr><tr>
+															<th><span class="title">Emittente</span></th><td>Vontobel Financial Products GmbH, Frankfurt am Main</td>
+														</tr><tr class="last">
+															<th><span class="title">Garante</span></th><td>Vontobel Holding AG, Zurich</td>
+														</tr>
+													</table></span>
+												</div>
+											</div><div class="clearfix">
+
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div><div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl01" class="ajax__tab_panel" style="display:none;">
+							<div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl01_ctl00" data-tracking-component="{&quot;component_name&quot;:&quot;Tab&quot;,&quot;component_instance_name&quot;:&quot;Sottostante&quot;}">
+								<input type="submit" name="ctl00$ctl22$ctl00$ctl00$ctl01$ctl01$tabUpdateButton" value="Update" id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl01_tabUpdateButton" class="tabUpdateButton" style="display:none;" />
+							</div>
+						</div><div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl02" class="ajax__tab_panel" style="display:none;">
+							<div id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl02_ctl00" data-tracking-component="{&quot;component_name&quot;:&quot;Tab&quot;,&quot;component_instance_name&quot;:&quot;Comunicazioni legate al prodotto&quot;}">
+								<input type="submit" name="ctl00$ctl22$ctl00$ctl00$ctl01$ctl02$tabUpdateButton" value="Update" id="ctl00_ctl22_ctl00_ctl00_ctl01_ctl02_tabUpdateButton" class="tabUpdateButton" style="display:none;" />
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><div id="ctl00_ctl22_ctl00_ctl01" style="display:none;">
+				<div class="updateProgress">
+					<div class="updateProgressOuter">
+						<div class="updateProgressInner">
+							<img src="/IT/Resources/Images/ajax-loader.gif?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" alt="indicator" border="0" />
+						</div>
+					</div>
+				</div>
+			</div><div class="colorLine">
+
+			</div><div class="product-info mobile">
+				<span id="ctl00_ctl22_ctl00_DocumentsMobile" class="column one document" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentControl&quot;}"><h2>
+					Documentazione
+				</h2><ul class="product-document-download accordion doc-list">
+					<li class="doc-item has-subnav"><a class="opener" href="#"><span>Condizioni Definitive</span></a><div class="slide">
+						<ul class="accordion">
+							<li><span class="reference-date">24/04/2023</span><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269665&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Condizioni Definitive|56654743.en&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/finalterms/DE000VU6EKD0e.pdf" target="_blank">en</a></li>
+						</ul>
+					</div></li><li class="doc-item has-subnav"><a class="opener" href="#"><span>Documento contenente le Informazioni Chiave</span></a><div class="slide">
+						<ul class="accordion">
+							<li class=" open-close" data-instant="true" data-close-on-escape="true"><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269630&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654734.it&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=it" target="_blank">it</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269627&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654732.en&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=en" target="_blank">en</a><a class="more-languages-opener" target="#"><span class="open-languages">more</span><span class="close-languages">less</span></a><div class="slide more-languages-list-wrapper" style="display:none;">
+								<ul class="slide more-languages-list">
+									<a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269636&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654740.cs&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=cs" target="_blank">cs</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269635&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654739.da&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=da" target="_blank">da</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269626&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654731.de&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=de" target="_blank">de</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269638&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654742.es&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=es" target="_blank">es</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269632&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654736.fi&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=fi" target="_blank">fi</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269629&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654733.fr&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=fr" target="_blank">fr</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269637&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654741.hu&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=hu" target="_blank">hu</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269633&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654737.nl&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=nl" target="_blank">nl</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269634&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654738.no&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=no" target="_blank">no</a><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;1776269631&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Documento contenente le Informazioni Chiave|56654735.sv&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/api/kid?isin=DE000VU6EKD0&amp;language=sv" target="_blank">sv</a>
+								</ul>
+							</div></li>
+						</ul>
+					</div></li><li class="doc-item has-subnav"><a class="opener" href="#"><span>Prospetto base</span></a><div class="slide">
+						<ul class="accordion">
+							<li><span class="reference-date">20/05/2023</span><a onclick="" data-tracking-component="{&quot;component_name&quot;:&quot;DocumentLink&quot;}" data-tracking-information="{&quot;media_type&quot;:&quot;document&quot;,&quot;media_value&quot;:&quot;-1&quot;,&quot;media_source&quot;:&quot;deridata&quot;}" data-tracking-listener-onclick="{&quot;action&quot;:&quot;download&quot;,&quot;category&quot;:&quot;document&quot;,&quot;label&quot;:&quot;DE000VU6EKD0|Prospetto base|57533758.en&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="https://derinet.vontobel.ch/baseprospectus/97.pdf" target="_blank">en</a></li>
+						</ul>
+					</div></li>
+				</ul></span>
+			</div>
+		</div>
+	</div><div class="column-clear">
+
+	</div>
+</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="ctl00_ctl13" class="sticky-footer">
+	<div id="ctl00_ctl13_ctl00" class="back-to-top" style="display:none;">
+		<div class="inner-content">
+			<a class="action-btn"><span class="btn-text"></span></a>
+		</div>
+	</div>
+</div>
+		<div class="footer">
+			<ul class="mobile-contacts">
+	<li class="phone"><a href="tel:800798693">tel:800798693</a></li><li class="mail"><a href="mailto:certificati@vontobel.com">Contact</a></li><li class="twitter"><a href="https://twitter.com/Vontobel_FP_IT">Twitter</a></li>
+</ul>
+			<div class="holder">
+				<p class="copyright">© Bank Vontobel Europe AG 2023. Tutti i diritti riservati.</p>
+				<ul class="bottom-nav" data-tracking-component="{&quot;component_id&quot;:&quot;194b7268-d114-40ac-9491-dae60ec8acb3&quot;,&quot;component_name&quot;:&quot;navigation-bottom&quot;,&quot;component_is_relevant&quot;:true}">
+	<li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Informazioni legali&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;cdfbb854-b5d9-4d45-aae0-c68b7da836fd&quot;}" href="/IT/IT/Informazioni_legali/"><span id="ctl00_ctl16_ctl00_linkTitle">Informazioni legali</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Mappa del sito&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;4ba329b1-e01b-472f-a83a-8d31bc8a522c&quot;}" href="/IT/IT/Sitemap/"><span id="ctl00_ctl16_ctl01_linkTitle">Mappa del sito</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Contatti&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;2571968a-5a93-4aac-9301-1c0c77488e09&quot;}" href="/IT/IT/Chi_Siamo/Contatti/"><span id="ctl00_ctl16_ctl02_linkTitle">Contatti</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Seguici su Twitter&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;efea7fd0-d5db-424e-abbb-5251d3a4bd22&quot;}" href="https://twitter.com/Vontobel_SP_IT" target="_blank"><span id="ctl00_ctl16_ctl03_linkTitle">Seguici su Twitter</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;Vontobel.com&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;af85ab11-213f-40b1-a521-6ce85166c80a&quot;}" href="https://www.vontobel.com/it-int/" target="_blank"><span id="ctl00_ctl16_ctl04_linkTitle">Vontobel.com</span></a></li><li><a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;link-internal&quot;,&quot;label&quot;:&quot;GDPR&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;link&quot;,&quot;media-source&quot;:&quot;adesso-cms_v4&quot;,&quot;media-type&quot;:&quot;page&quot;,&quot;media-value&quot;:&quot;7bd49bd8-61f5-4c17-8e2a-dbd6cd6a5223&quot;}" href="https://www.vontobel.com/it-int/informazioni-legali/gdpr/" target="_blank"><span id="ctl00_ctl16_ctl05_linkTitle">GDPR</span></a></li>
+</ul>
+				<span id="ctl00_ctl17"><div class="toggle-responsive">
+	<div class="toggle-button">
+		<a id="ctl00_ctl17_ctl02"><span>Visualizza in versione desktop</span></a>
+	</div>
+</div></span>
+				<div class="bottom-block">
+	<p> <strong><a href="https://certificati.vontobel.com/IT/IT/Informazioni_legali/Importante_Avvertenza_Legale">Importante avvertenza legale.</a></strong> Si prega di leggere queste informazioni prima di continuare poiché i prodotti e i servizi contenuti in questo sito internet non sono accessibili a certi soggetti. Rilevanti sono i rispettivi prospetti ottenibili dall’emittente: Vontobel Financial Products GmbH, Bockenheimer Landstrasse 24, 60323 Francoforte sul Meno, Germania, nonché su questo sito internet. Copyright Bank Vontobel Europe AG.</p>
+</div>
+				<div>
+	<div class="column-advertisment">
+
+	</div><div class="column-clear">
+
+	</div>
+</div>
+				
+				<div class="social">
+
+</div>
+			</div>
+		</div>
+		<!-- "Controls/ContactPopup.inc" -->
+		
+
+		<!-- ignore ?? -->
+		
+	<span id="ctl00_GlobalPushPageQuotes"></span><input type="hidden" name="ctl00$EnableDefaultWebtrendsTracking" id="ctl00_EnableDefaultWebtrendsTracking" value="False" /><div id="ctl00_ctl23" class="info-drop popup-container">
+	<input type="hidden" name="ctl00$ctl23$currentData" id="ctl00_ctl23_currentData" /><div id="ctl00_ctl23_ctl00" class="before-responsive">
+
+	</div><input type="hidden" name="ctl00$ctl23$selectedElementId" id="ctl00_ctl23_selectedElementId" /><div class="frame">
+		<div id="ctl00_ctl23_overlayContainerUpdatePanel1">
+			<div class="open-close active">
+				<input type="hidden" name="ctl00$ctl23$ctl08$isOpen" id="ctl00_ctl23_ctl08_isOpen" value="true" /><a class="heading opener" href="#" onclick="var isOpen = ($(&#39;#ctl00_ctl23_ctl08_isOpen&#39;).val() == &#39;true&#39;); $(&#39;#ctl00_ctl23_ctl08_isOpen&#39;).val(!isOpen);"><span class="opener-icon">opener</span><strong class="title watch">I miei prodotti</strong></a><div class="slide">
+					<div class="area">
+						<div id="ctl00_ctl23_ctl08_watchlistPopupUpdatePanel">
+							<div id="ctl00_ctl23_ctl08_watchlistLogin">
+								<input type="hidden" name="ctl00$ctl23$ctl08$watchlistLogin$currentState" id="ctl00_ctl23_ctl08_watchlistLogin_currentState" value="Login" /><div id="ctl00_ctl23_ctl08_watchlistLogin_popupLoginUpdatePanel">
+									<div class="form-login">
+										<div>
+											<div class="row">
+												Per poter aggiungere questo prodotto alla sua watchlist deve essere registrato.
+											</div><div class="row first">
+												<a rel="nofollow" data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;navigation&quot;,&quot;label&quot;:&quot;Accedi (con MyVontobel-Login)&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="/IT/saml/login?culture=it-IT&amp;ReturnUrl=%2fIT%2fIT%2fProdotti%2fDE000VU6EKD0%2f">Accedi (con MyVontobel-Login)</a>
+											</div><div class="row">
+												<a data-tracking-listener-onclick="{&quot;action&quot;:&quot;click&quot;,&quot;category&quot;:&quot;navigation&quot;,&quot;label&quot;:&quot;Iscriviti (Login MyVontobel)&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}" href="/IT/IT/showpage.aspx?pageID=199&amp;ReturnUrl=%2fIT%2fIT%2fProdotti%2fDE000VU6EKD0%2f">Iscriviti (Login MyVontobel)</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><div id="ctl00_ctl23_ctl13" style="display:none;">
+				<div class="updateProgress">
+					<div class="updateProgressOuter">
+						<div class="updateProgressInner">
+							<img src="/IT/Resources/Images/ajax-loader.gif?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb" alt="indicator" border="0" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="ctl00_DisclaimerManager" style="display: none;">
+	<div>
+		<div id="ctl00_DisclaimerManager_ctl00_ctl00" data-tracking-component="{&quot;component_id&quot;:&quot;76ea4314-3250-48e3-b67e-ccafcf72b8a5&quot;,&quot;component_name&quot;:&quot;Disclaimer&quot;,&quot;component_instance_id&quot;:&quot;1df03c9f-9e65-4a7d-8bb7-79135140cf8b&quot;,&quot;component_is_relevant&quot;:true}">
+			<div class="disclaimer-wrapper-a">
+				<h1 class="base">
+					<img src="/IT/Resources/Images/logo-black.png" alt="Home" style="border-width:0px; width: auto;">
+				</h1><div class="dropdown country">
+					<span class="disclaimer-label">Paese:</span><div id="ctl00_DisclaimerManager_ctl00_ctl00_CountrySelector">
+						<select name="ctl00$DisclaimerManager$ctl00$ctl00$CountrySelector$countryDropDown" id="ctl00_DisclaimerManager_ctl00_ctl00_CountrySelector_countryDropDown">
+							<option value="Italia" class="jcf-hidden">Italia</option>
+							<option value="https://markets.vontobel.com/en-dk">Danimarca</option>
+							<option value="https://markets.vontobel.com/en-fi">Finlandia</option>
+							<option value="https://markets.vontobel.com/fr-fr">France</option>
+							<option value="https://zertifikate.vontobel.com/DE/">Germania</option>
+							<option value="https://www.vontobelwarrants.com/">Hong Kong</option>
+							<option value="https://markets.vontobel.com/en-no">Norvegia</option>
+							<option value="https://beursproducten.vontobel.com/NL/">Paesi Bassi</option>
+							<option value="https://prospectus.vontobel.com/">Repubblica Ceca</option>
+							<option value="https://derinet.vontobel.com/CH/">Svizzera</option>
+							<option value="https://markets.vontobel.com/en-se">Sweden</option>
+							<option value="https://prospectus.vontobel.com/">Ungheria</option>
+							<option value="https://www.vontobel.com/INT/IT/Home">Others</option>
+
+						</select>
+					</div>
+				</div><div class="dropdown investor-type">
+					<span class="disclaimer-label">Profilo dell'investitore</span><select name="ctl00$DisclaimerManager$ctl00$ctl00$ctl10">
+						<option value="private">Investitore privato</option>
+						<option value="institutional">Investitore istituzionale</option>
+
+					</select>
+				</div><div class="text">
+					<h3>TERMINI E CONDIZIONI D&rsquo;USO</h3>
+<br>
+<strong>Utilizzatori autorizzati</strong><br>
+<p>Le presenti pagine internet possono essere utilizzate esclusivamente da persone fisiche residenti in Italia. </p>
+<p>L&rsquo;utilizzatore accetta di interrompere l&rsquo;utilizzo delle presenti pagine internet ove, in futuro, smetta di trovarsi in Italia. A tale proposito, si veda anche anche il paragrafo &ldquo;Restrizioni alla vendita&rdquo; che segue. </p>
+<strong>Assenza di offerta, assenza di sollecitazione all&rsquo;acquisto, sottoscrizione o vendita</strong><br>
+<p>Le presenti pagine internet servono esclusivamente a dare accesso ad informazioni all&rsquo;utilizzatore che Bank Vontobel Europe AG, succursale di Francoforte (di seguito, congiuntamente alle sue controllate, "Vontobel"), abbia deciso di rendere disponibili al pubblico e non costituiscono e non devono essere interpretate come, una sollecitazione o un&rsquo;offerta da parte di Vontobel di acquistare, sottoscrivere o vendere titoli. Gli investitori non possono acquistare, sottoscrivere o vendere i titoli descritti nelle presenti pagine internet direttamente da Vontobel, ma lo dovranno fare esclusivamente attraverso la propria banca/intermediario. </p>
+<strong>Assenza di obblighi contrattuali di fornire informazioni; assenza di consulenza; linea diretta; reclami</strong><br>
+<p>L&rsquo;utilizzo delle presenti pagine internet non operer&agrave; nel senso di creare un rapporto contrattuale con Vontobel al di fuori dei presenti Termini e Condizioni d&rsquo;Uso. In particolare, le informazioni esposte nelle presenti pagine internet non dovranno essere interpretate alla stregua di una offerta da parte di Vontobel di sottoscrivere un contratto di consulenza ovvero ogni altro contratto per la fornitura di informazioni su base gratuita o non gratuita. Alla luce di quanto precede, la consultazione da parte di un utilizzatore delle presenti pagine internet o l&rsquo;estrazione delle informazioni ivi contenute non porter&agrave; alla stipula di alcun contratto tra Vontobel e l&rsquo;utilizzatore per la fornitura di informazioni. </p>
+<p>N&eacute; le informazioni di cui alle presenti pagine internet n&eacute; le informazioni che gli utilizzatori ricevono attraverso la linea telefonica diretta costituiranno un servizio di consulenza d&rsquo;investimento, fiscale o di altro tipo. Tali informazioni non tengono in considerazione la specifica situazione dell&rsquo;utilizzatore con riferimento, tra l&rsquo;altro, alla sua conoscenza dei rilevanti titoli, obiettivi di investimento e propensione al rischio, situazione finanziaria e posizione fiscale e contabile. Tali informazioni non sostituiscono la consulenza da parte della vostra banca/intermediario o di qualsiasi altro consulente fiscale o di investimento, che &egrave; essenziale in ciascun singolo caso prima di prendere una qualsiasi decisione di acquisto, sottoscrizione o vendita. </p>
+<p>Gli utilizzatori dovranno indirizzare qualsiasi obiezione o reclamo in relazione alle presenti pagine internet per iscritto al seguente indirizzo: </p>
+<p>Bank Vontobel Europe AG<br>
+Niederlassung Francoforte sul Meno<br>
+Bockenheimer Landstra&szlig;e 24<br>
+60323 Francoforte sul Meno<br>
+Germania </p>
+<strong>Assenza di analisi finanziaria</strong><br>
+<p>Le informazioni fornite nelle pagine internet non costituiscono un&rsquo;analisi finanziaria n&eacute; soddisfano i requisiti di legge a garanzia dell&rsquo;imparzialit&agrave; dell&rsquo;analisi finanziaria; n&eacute; tali informazioni sono soggette ad un divieto di negoziazione prima della pubblicazione di analisi finanziarie. </p>
+<strong>Rischi</strong><br>
+<p>L&rsquo;acquisto/sottoscrizione dei titoli &egrave; connesso a rischi finanziari. In presenza di condizioni sfavorevoli, tali rischi potrebbero materializzarsi e portare ad una perdita totale del capitale investito. I potenziali investitori dovrebbero leggere attentamente il prospetto di base, le rilevanti condizioni definitive e ogni supplemento al prospetto di base al fine di comprendere i rischi connessi ad un investimento nei titoli. I potenziali investitori dovrebbero consultare la loro banca/intermediario o qualsiasi altro consulente fiscale o finanziario prima di prendere una qualsiasi decisione di acquisto, sottoscrizione o vendita. </p>
+<strong>Informazioni sul prezzo</strong><br>
+<p>Le informazioni sul prezzo contenute nelle presenti pagine internet derivano o da fonti terze, quali fornitori di servizi di informazione finanziaria, o sono state calcolate da Vontobel stessa e non si dovrebbe fare affidamento su di esse per prevedere valori o prezzi futuri.
+In alcuni casi, gli attuali prezzi dei titoli o sottostanti potrebbero essere mostrati con un certo ritardo. Gli utilizzatori possono reperire ulteriori informazioni sui prezzi, e in particolare le informazioni relative all&rsquo;andamento passato dei prezzi del sottostante, nel luogo a cui si fa riferimento nel prospetto per il rilevante titolo. L&rsquo;andamento storico dei prezzi non &egrave; un indicatore affidabile dell&rsquo;andamento futuro dei prezzi del sottostante o dei titoli. Si prega di notare che Vontobel non fornisce alcuna garanzia in merito alla correttezza delle informazioni sui prezzi e che le informazioni sui prezzi sono soggette a correzioni in qualsiasi momento (con riferimento all&rsquo;assenza di garanzia si prega di vedere anche il paragrafo &ldquo;Assenza di garanzia in merito al contenuto&rdquo; che segue). I potenziali investitori dovrebbero consultare la loro banca/intermediario o qualsiasi altro consulente fiscale o finanziario prima di prendere una qualsiasi decisione di acquisto, sottoscrizione o vendita. </p>
+<strong>Informazioni sul rendimento</strong><br>
+<p>Nelle presenti pagine internet, tutte le informazioni relative ai rendimenti, quali bonus o rendimenti massimi, si riferiscono ai rendimenti lordi che non tengono conto dei costi che dovranno essere sostenuti e, fatto salvo ove espressamente indicato, delle imposte da pagarsi da parte del rilevante investitore. Gli investitori, infatti, sosterranno costi e imposte che diminuiscono il loro rendimento. Tali costi e imposte includono, ad esempio, i costi connessi al conto titoli o i costi di transazione. La misura dell&rsquo;impatto di uno qualsiasi di tali costi ed imposte sul rendimento netto dipende dall&rsquo;importo dell&rsquo;investimento e dai costi e dalle imposte effettivamente sostenuti da parte del rilevante investitore. I potenziali investitori dovrebbero consultare la loro banca/intermediario o qualsiasi altro consulente fiscale o finanziario prima di prendere una qualsiasi decisione di acquisto, sottoscrizione o vendita. </p>
+<strong>Scheda informativa sul prodotto</strong><br>
+<p>Per la maggior parte dei prodotti di investimento, le schede informative sul prodotto possono essere consultate nelle presenti pagine internet alla pagina della sezione "Documenti" che contiene i dettagli del prodotto rilevante. </p>
+<p>Nella misura in cui l&rsquo;utilizzatore consulti una scheda informativa sul prodotto, Vontobel avr&agrave; il diritto &ndash; ma non l&rsquo;obbligo &ndash; di archiviare i dati dell&rsquo;utilizzatore (in particolare l&rsquo;indirizzo IP, il provider e l&rsquo;URL di provenienza), l&rsquo;ora di accesso e i contenuti della scheda informativa sul prodotto trasmessi all&rsquo;utilizzatore. Tale archiviazione serve per adempiere ad obblighi regolamentari, e i dati archiviati possono altres&igrave; essere utilizzati nel contesto di controversie legali tra l&rsquo;utilizzatore o altri investitori e Vontobel. La politica sulla privacy dei dati si applica anche a tali dati. </p>
+<strong>Prospetto</strong><br>
+<p>Al fine di ricevere informazioni dettagliate relative in particolare alla struttura e ai rischi connessi ad un investimento nei titoli, gli utilizzatori che stanno considerando l&rsquo;acquisto/sottoscrizione dei titoli descritti nelle presenti pagine internet dovrebbero leggere il prospetto di base, che, insieme alle condizioni definitive e a qualsiasi supplemento al prospetto di base, &egrave; pubblicato nelle presenti pagine internet (si veda il titolo "Prospetti" e la rilevante pagina contenente i dettagli del prodotto) e pu&ograve; essere ottenuto gratuitamente dall&rsquo;emittente, Vontobel Financial Products GmbH, Bockenheimer Landstra&szlig;e 24, 60323 Francoforte sul Meno, Germania. </p>
+<strong>Conflitti di interesse</strong><br>
+<p>Si deve considerare che, di volta in volta, Vontobel acquista o vende titoli, materie prime, futures e opzioni a fini di copertura e ad altri fini, o detiene posizioni (lunghe o corte) nei medesimi che sono identiche o connesse a tali titoli. Quanto precede potrebbe avere un impatto sul valore dei titoli. Inoltre, Vontobel pu&ograve; ricoprire il ruolo di agente di calcolo o sponsor dei sottostanti e, in quanto tale, pu&ograve; effettuare determinazioni che influenzano il valore dei titoli. </p>
+<strong>Pagamenti di commissioni da parte di Vontobel</strong><br>
+<p>Vontobel pu&ograve; pagare commissioni a soggetti collocatori in relazione alla distribuzione dei titoli. Tali pagamenti di commissioni ridurranno il rendimento che l&rsquo;investitore &egrave; in grado di ottenere. Nel caso in cui vengano pagate commissioni, troverete le informazioni relative all&rsquo;importo di tali pagamenti di commissioni nelle rilevanti condizioni definitive. </p>
+<strong>Restrizioni di vendita</strong><br>
+<p>I prodotti descritti nelle presenti pagine internet non possono essere offerti per la vendita in tutti i paesi e sono in ogni caso riservati al gruppo di persone autorizzate ad acquistarli. Le restrizioni di vendita che si applicano agli specifici prodotti sono indicate nei rilevanti prospetti e devono essere lette attentamente dall&rsquo;utilizzatore. <br>
+<br>
+In particolare, si applicano le seguenti restrizioni di vendita: <br>
+<br>
+Persone giuridiche domiciliate negli Stati Uniti. </p>
+<p>Le informazioni contenute nelle presenti pagine internet non sono dirette agli Stati Uniti. I cittadini statunitensi (nel significato di cui alla Regulation S dello U.S. Securities Act del 1933) e le persone giuridiche domiciliate negli Stati Uniti non possono avere accesso alle presenti pagine internet. Le informazioni fornite nelle presenti pagine internet non possono essere divulgate o rivelate negli Stati Uniti o in altri paesi in cui una tale azione configurerebbe una violazione della loro normativa applicabile. I titoli qui elencati non sono e non saranno registrati ai sensi dello U.S. Securities Act del 1933, e non &egrave; stata ottenuta alcuna autorizzazione per la negoziazione di tali titoli ai sensi dello U.S. Commodities Exchange Act del 1936. I titoli non possono essere venduti o offerti negli Stati Uniti, a cittadini statunitensi o a persone giuridiche domiciliate negli Stati Uniti. </p>
+<p>I prodotti descritti nelle presenti pagine internet saranno offerti o venditi a persone giuridiche in altre giurisdizioni solo se ci&ograve; &egrave; permesso ai sensi delle rilevanti previsioni di legge applicabili. </p>
+<strong>Assenza di garanzia in merito al contenuto</strong><br>
+<p>La messa a disposizione delle, o il contenuto di cui alle, presenti pagine internet o di altri servizi non far&agrave; sorgere alcun obbligo in capo a Vontobel nei confronti degli utilizzatori. </p>
+<p>Sebbene le presenti pagine internet siano basate su informazioni che Vontobel ritiene affidabili e Vontobel cerchi di mantenere aggiornate tali informazioni, Vontobel non fornisce alcuna garanzia sulle informazioni contenute nelle presenti pagine internet (gli annunci concernenti il regolamento dei titoli non ricadono nell&rsquo;ambito di applicazione del presente paragrafo). In particolare, Vontobel non fornisce alcuna garanzia in merito (a) alla qualit&agrave;, correttezza, attualit&agrave;, disponibilit&agrave; e completezza dei dati e delle altre informazioni di cui alle presenti pagine internet, (b) alla puntuale e corretta notifica agli utilizzatori del fatto che determinati limiti e soglie siano stati raggiunti, (c) al fatto che continuer&agrave; a fornire o aggiornare tali informazioni in futuro, (d) all&rsquo;adeguatezza o appropriatezza dei titoli per gli investitori, (e) alle conseguenze fiscali e contabili di un investimento nei titoli e (f) all&rsquo;andamento futuro dei prezzi dei titoli. I potenziali investitori dovrebbero consultare la loro banca/intermediario o qualsiasi altro consulente fiscale o finanziario prima di prendere una qualsiasi decisione di acquisto, sottoscrizione o vendita. </p>
+<p>I valori e prezzi esposti nelle presenti pagine internet non tengono conto della dimensione delle operazioni, vale a dire che la dimensione di una specifica operazione pu&ograve; avere come conseguenza una deviazione dei valori e dei prezzi. Inoltre, questi potrebbero non corrispondere al valore o prezzo che potrebbe essere ottenuto sul rilevante mercato nel momento in cui un utilizzatore voglia acquistare o vendere determinati titoli o valute. </p>
+<strong>Collegamenti</strong><br>
+<p>Le presenti pagine internet possono contenere collegamenti a siti internet che sono finanziati e mantenuti da terzi. Vontobel mette a disposizione degli utilizzatori tali collegamenti esclusivamente al fine di assisterli nel localizzare gli altri siti. Vontobel non ha esaminato le informazioni, i software o i prodotti su tali siti in relazione al contenuto o corretto funzionamento. Alla luce di quanto precede, Vontobel non rende alcuna dichiarazione in merito al contenuto di tali siti. Inoltre, Vontobel non assume alcuna responsabilit&agrave; per difetti tecnici o virus contenuti in tali siti. Il fatto che Vontobel metta a disposizione un collegamento non costituisce una raccomandazione o conferma da parte di Vontobel in merito al contenuto di tali siti, ai loro proprietari o ai soggetti responsabili di essi. </p>
+<strong>Diritti sul contenuto e sul layout</strong><br>
+<p>Il contenuto e il layout delle pagine internet, incluso il software sottostante, sono coperti da diritto d&rsquo;autore o sono comunque protetti. La riproduzione, trasmissione, modifica, collegamento o utilizzo delle pagine internet (in tutto o in parte) per usi pubblici o commerciali senza il consenso scritto di Vontobel sono vietati. Le presenti pagine internet possono essere scaricate e se ne pu&ograve; estrarre copia esclusivamente per uso privato, non commerciale; esse non possono essere rivelate a terzi. </p>
+<strong>Protezione dei dati</strong><br>
+<p>Maggiori informazioni sulla protezione dei dati sono disponibili al seguente link. Le informazioni pubblicate a tale link verranno aggiornate periodicamente da Vontobel e prevalgono su qualsiasi pubblicazione precedente. <br>
+<a href="https://www.vontobel.com/privacypolicy" target="_blank">https://www.vontobel.com/privacypolicy</a>
+</p>
+<strong>Modifiche della termini e condizioni d&acute;uso</strong><br>
+<p>Ci riserviamo il diritto di aggiornare la presente termini e condizioni d&acute;uso senza previa notifica. Vi consigliamo pertanto di visitare regolarmente questa pagina.
+</p>
+<p>La presente termini e condizioni d&acute;uso &egrave; aggiornata al 17 maggio 2018. </p>
+<strong>Legge applicabile/giurisdizione</strong><br>
+<p>I presenti Termini e Condizioni d&rsquo;Uso saranno soggetti alle leggi della Repubblica Federale tedesca. </p>
+<p>In relazione ad ogni controversia legale derivante in relazione ai presenti Termini e Condizioni d&rsquo;Uso, tutti gli utilizzatori privati che non siano residenti in uno dei paesi in cui si applica il regolamento del Consiglio (CE) N. 1215/2012 del 12 dicembre 2012 concernente la competenza giurisdizionale, il riconoscimento e l'esecuzione delle decisioni in materia civile e commerciale, o che abbia sottoscritto o ratificato la convenzione di Lugano del 16 settembre 1988 concernente la competenza giurisdizionale e l&rsquo;esecuzione delle decisioni in materia civile e commerciale, e tutti gli utilizzatori commerciali saranno soggetti all&rsquo;esclusiva competenza del foro di Francoforte sul Meno, Germania. </p>
+				</div>
+			</div><div class="disclaimer-wrapper-b">
+				<div class="disclaimer-buttons" data-tracking-listener-onautodisplay="{&quot;action&quot;:&quot;impression&quot;,&quot;category&quot;:&quot;disclaimer&quot;,&quot;nonInteraction&quot;:&quot;true&quot;,&quot;tech_category&quot;:&quot;dialog&quot;}">
+					<a id="ctl00_DisclaimerManager_ctl00_ctl00_Accept" class="button accept" data-tracking-listener-onclick="{&quot;action&quot;:&quot;accept&quot;,&quot;category&quot;:&quot;disclaimer&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;dialog&quot;}" href="javascript:__doPostBack(&#39;ctl00$DisclaimerManager$ctl00$ctl00$Accept&#39;,&#39;&#39;)">Conferma</a><a id="ctl00_DisclaimerManager_ctl00_ctl00_AcceptFunctionalOnly" class="button accept" data-tracking-listener-onclick="{&quot;action&quot;:&quot;accept-functional-only&quot;,&quot;category&quot;:&quot;disclaimer&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;dialog&quot;}" href="javascript:__doPostBack(&#39;ctl00$DisclaimerManager$ctl00$ctl00$AcceptFunctionalOnly&#39;,&#39;&#39;)" style="display:none !important;">Conferma</a><a id="ctl00_DisclaimerManager_ctl00_ctl00_AcceptAll" class="button accept" data-tracking-listener-onclick="{&quot;action&quot;:&quot;accept-all&quot;,&quot;category&quot;:&quot;disclaimer&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;dialog&quot;}" href="javascript:__doPostBack(&#39;ctl00$DisclaimerManager$ctl00$ctl00$AcceptAll&#39;,&#39;&#39;)" style="display:none !important;">Conferma</a><a id="ctl00_DisclaimerManager_ctl00_ctl00_Cancel" class="cancel" data-tracking-listener-onclick="{&quot;action&quot;:&quot;close&quot;,&quot;category&quot;:&quot;disclaimer&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;dialog&quot;}" data-event-category="gdprConsent" data-event-action="dont-accept" href="javascript:__doPostBack(&#39;ctl00$DisclaimerManager$ctl00$ctl00$Cancel&#39;,&#39;&#39;)">Non accettare</a><a id="ctl00_DisclaimerManager_ctl00_ctl00_ctl14" class="edit-privacy" onclick="utag.gdpr.showConsentPreferences(&#39;it&#39;);" data-tracking-listener-onclick="{&quot;action&quot;:&quot;settings&quot;,&quot;category&quot;:&quot;disclaimer&quot;,&quot;nonInteraction&quot;:&quot;false&quot;,&quot;tech_category&quot;:&quot;dialog&quot;}">Personalizza impostazioni</a>
+				</div><div class="privacy-wrapper">
+					<h3>
+						Impostazioni della privacy
+					</h3><div class="privacy-tex">
+						Facciamo uso di cookie e di altre tecnologie di tracciamento per migliorare la vostra esperienza e la facilità d'uso del nostro sito web, per mostrare contenuti personalizzati e annunci mirati e per analizzare il traffico del sito. Per maggiori informazioni vi invitiamo a consultare la nostra <a href="https://www.vontobel.com/it-ch/informazioni-legali/cookie-policy/">Direttiva in materia di cookie</a>.<br/><br/>Per modificare le impostazioni o rifiutare tutti i cookie, tranne quelli funzionali strettamente necessari, potete configurare in qualsiasi momento le vostre <a onclick="utag.gdpr.showConsentPreferences('it');" data-tracking-listener-onclick="{&quot;action&quot;:&quot;settings&quot;,&quot;category&quot;:&quot;disclaimer&quot;,&quot;nonInteraction&quot;:&quot;false&quot;}">Impostazioni relative a cookie e tracciamento</a>. Cliccando su "Conferma" acconsentite senza riserve alla raccolta dei dati. Verranno memorizzate le ultime impostazioni da voi selezionate.
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();// IE PostBack Fix - see http://support.microsoft.com/?kbid=2000262
+function disposeTree(sender, args) {
+		var elements = args.get_panelsUpdating();
+		for (var i = elements.length - 1; i >= 0; i--) {
+				var element = elements[i];
+				var allnodes = element.getElementsByTagName('*'),
+						length = allnodes.length;
+				var nodes = new Array(length)
+				for (var k = 0; k < length; k++) {
+						nodes[k] = allnodes[k];
+				}
+				for (var j = 0, l = nodes.length; j < l; j++) {
+						var node = nodes[j];
+						if (node.nodeType === 1) {
+								if (node.dispose && typeof (node.dispose) === 'function') {
+										node.dispose();
+								}
+								else if (node.control && typeof (node.control.dispose) === 'function') {
+										node.control.dispose();
+								}
+
+								var behaviors = node._behaviors;
+								if (behaviors) {
+										behaviors = Array.apply(null, behaviors);
+										for (var k = behaviors.length - 1; k >= 0; k--) {
+												behaviors[k].dispose();
+										}
+								}
+						}
+				}
+				element.innerHTML = '';
+		}
+}
+Sys.WebForms.PageRequestManager.getInstance().add_pageLoading(disposeTree);
+//]]>
+</script>
+<script type="text/javascript">WebForm_DoCallback('ctl00$ctl22$ctl00','5d1a45a0-8f7c-4b5b-b4c5-a46070512479',null,'context',null,true)</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.CountryDropDownControl, {"debugEnabled":false}, null, null, $get("ctl00_ctl08_CountrySelector"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.GlobalSearchControl, {"debugEnabled":false,"defaultValue":"Ricerca","inputfieldID":"ctl00_ctl08_GlobalSearch_SearchField","searchButtonID":"ctl00_ctl08_GlobalSearch_submit","searchUrl":"/IT/IT/Risultato_ricerca?SearchTerm={0}"}, null, null, $get("ctl00_ctl08_GlobalSearch"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.MobilePageHeaderControl, {"debugEnabled":false}, null, null, $get("ctl00_ctl09"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.CountryDropDownControl, {"countrySelectorID":"ctl00_ctl09_CountrySelector_countryDropDown","debugEnabled":false}, null, null, $get("ctl00_ctl09_CountrySelector"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.GlobalSearchControl, {"debugEnabled":false,"defaultValue":"Ricerca","inputfieldID":"ctl00_ctl09_ctl05_GlobalSearch_SearchField","searchButtonID":"ctl00_ctl09_ctl05_GlobalSearch_submit","searchUrl":"/IT/IT/Risultato_ricerca?SearchTerm={0}"}, null, null, $get("ctl00_ctl09_ctl05_GlobalSearch"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.TargetPostbackButton, null, null, null, $get("ctl00_ctl10_ctl01_ctl01"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Web.UI.Controls.SocialMediaControl, {"canReplaceBrowserUrl":false,"debugEnabled":false,"flyoutCssClass":"social-media-flyout","flyoutWrapperCssClass":"social-media-flyout-wrapper","hasIcons":true,"shareButtonCssClass":"share-button","urlToShareHiddenID":"SocialMediaLink"}, null, null, $get("ctl00_ctl10_ctl05_ctl03"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.OverlayContainerControl, {"ID":"ctl00_ctl10_ctl06_ctl01","at":"left center","closeButtonSelector":null,"debugEnabled":false,"hiddenFieldId":"ctl00_ctl10_ctl06_ctl01_selectedElementId","isEmpty":false,"my":"right-7 top-26","openButtonSelector":".overlayOpen.pdf","responsiveArrowId":"ctl00_ctl10_ctl06_ctl01_ctl00","updatePanelId":""}, null, null, $get("ctl00_ctl10_ctl06_ctl01"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.TargetPostbackButton, null, null, null, $get("ctl00_ctl10_ctl06_ctl01_ctl02_ctl04_ctl00_currentPage"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Web.UI.Controls.StickyFooterContainerControl, {"debugEnabled":false,"fixedClass":"fixed","stickToSelector":".footer"}, null, null, $get("ctl00_ctl13"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Web.UI.Controls.BackToTopControl, {"buttonClass":"action-btn","debugEnabled":false,"triggerPixels":0}, null, null, $get("ctl00_ctl13_ctl00"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Web.UI.Controls.ToggleResponsiveDesignControl, {"cookieName":"BlockResponsiveDesign","debugEnabled":false,"toggleButtonId":"ctl00_ctl17_ctl02","useSecureCookie":true}, null, null, $get("ctl00_ctl17"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.StockChartControlBase, {"HideUnderlyingPrice":false,"barrier":null,"barrierName":null,"buttonPanelCssClass":"ChartButtons","cap":null,"capName":null,"chartHeight":"300px","chartId":"ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_chartarea","compareTypeCssName":"CompareType","configs":[{"url":"/IT/CommonResources/Scripts/StockChart.json?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb","data":null,"dataType":0},{"url":"/IT/CommonResources/Scripts/StockChartIntraday.json?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb","data":null,"dataType":1}],"currency":"EUR","currentChartRange":0,"currentConfigId":0,"data":[{"dataType":0,"data":[{"url":"/IT/charts.js?guid=5d1a45a0-8f7c-4b5b-b4c5-a46070512479\u0026source=derivative\u0026hash=0D06392828AA36E46C0CBAF71B17B8\u0026dataType=Default\u0026requestType=ChartData\u0026mints=1682294400000","instrument":"5d1a45a0-8f7c-4b5b-b4c5-a46070512479","name":"Prodotto","visible":true,"color":"#000000"},{"url":"/IT/charts.js?guid=34833d2a-b2ae-4e3d-b8ea-c4fd58f7a774\u0026source=underlying\u0026exchange=6024cd02-43fa-48a6-a35f-3153eb160e91\u0026currency=27106e06-5bff-4afa-9737-3cf2bcf03995\u0026hash=0D06392828AA36E46C0CBAF71B17B8\u0026dataType=Default\u0026requestType=ChartData\u0026mints=1682294400000","instrument":"34833d2a-b2ae-4e3d-b8ea-c4fd58f7a774","name":"Renault","visible":false,"color":"#97BF0D"},{"url":"/IT/charts.js?guid=500edaf5-0572-4ca4-b293-0d4e18742bfc\u0026source=underlying\u0026exchange=d7177dc6-6e04-4e12-bab6-f8242eb759ae\u0026currency=27106e06-5bff-4afa-9737-3cf2bcf03995\u0026hash=0D06392828AA36E46C0CBAF71B17B8\u0026dataType=Default\u0026requestType=ChartData\u0026mints=1682294400000","instrument":"500edaf5-0572-4ca4-b293-0d4e18742bfc","name":"Stellantis","visible":false,"color":"#80699B"}],"mainSerieIndex":0,"additionalDataUrl":"/IT/charts.js?guid=5d1a45a0-8f7c-4b5b-b4c5-a46070512479\u0026hash=0D06392828AA36E46C0CBAF71B17B8\u0026dataType=Default\u0026requestType=AdditionalData\u0026mints=1682294400000"},{"dataType":1,"data":[{"url":"/IT/charts.js?guid=5d1a45a0-8f7c-4b5b-b4c5-a46070512479\u0026source=derivative\u0026hash=0D06392828AA36E46C0CBAF71B17B8\u0026dataType=Intraday\u0026requestType=ChartData\u0026mints=1682294400000","instrument":"5d1a45a0-8f7c-4b5b-b4c5-a46070512479","name":"Prodotto","visible":true,"color":"#000000"}],"mainSerieIndex":0,"additionalDataUrl":"/IT/charts.js?guid=5d1a45a0-8f7c-4b5b-b4c5-a46070512479\u0026hash=0D06392828AA36E46C0CBAF71B17B8\u0026dataType=Intraday\u0026requestType=AdditionalData\u0026mints=1682294400000"}],"datePickerID":"ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11","debugEnabled":false,"fixedCompareTypePercent":false,"isPercentTraded":false,"issueDate":null,"issuePrice":100.0000000,"limitRangeToMainChartData":true,"manualTimeRangeText":"Costume","marketCloseTimeInSeconds":79200,"marketOpeningTimeInSeconds":28800,"strike":null,"strikeName":null}, null, null, $get("ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Web.UI.Controls.DatePickerControl, {"debugEnabled":false,"fromDateID":"ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11_from","fromDateIconID":"ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11_ctl00","imageUrl":"/IT/VontobelCoreResources/Images/datepicker_button.png?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb","toDateID":"ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11_to","toDateIconID":"ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11_ctl02"}, null, null, $get("ctl00_ctl22_ctl00_ctl00_ctl01_ctl00_ctl04_ctl00_ctl14_ctl11"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.DocumentControl, {"ID":"ctl00_ctl22_ctl00_DocumentsMobile","closeText":"less","debugEnabled":false,"isFlyOut":false,"openText":"more"}, null, null, $get("ctl00_ctl22_ctl00_DocumentsMobile"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.OverlayContainerControl, {"ID":"ctl00_ctl22_ctl07_ctl06_ctl25","at":"left center","closeButtonSelector":null,"debugEnabled":false,"hiddenFieldId":"ctl00_ctl22_ctl07_ctl06_ctl25_selectedElementId","isEmpty":false,"my":"right-7 top-26","openButtonSelector":".tradingPartnersButton.sell","responsiveArrowId":"ctl00_ctl22_ctl07_ctl06_ctl25_ctl00","updatePanelId":""}, null, null, $get("ctl00_ctl22_ctl07_ctl06_ctl25"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.InstrumentTradeControl, {"InstrumentData":{"ISIN":"DE000VU6EKD0","Valor":"125979644","CurrencyCode":"EUR","IsOlderThenTwelveMonths":false,"IsListed":false,"IsSubscriptionActive":false,"IsSwissDots":false},"ItemContainerID":"ctl00_ctl22_ctl07_ctl06_ctl25_ctl02_ctl00","ItemTemplate":"\u003cdiv class=\"ItemPanel\"\u003e\r\n\t\u003cimg class=\"SmallLogo\" src=\"\" alt=\"@@TradingPartnerName@@\" style=\"border-width:0px;\" /\u003e\u003ca class=\"SellLink\" data-tracking-listener-onclick=\"{\u0026quot;action\u0026quot;:\u0026quot;sell\u0026quot;,\u0026quot;category\u0026quot;:\u0026quot;link-broker\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;@@TradingPartnerName@@\u0026quot;,\u0026quot;nonInteraction\u0026quot;:\u0026quot;false\u0026quot;,\u0026quot;tech_category\u0026quot;:\u0026quot;link\u0026quot;,\u0026quot;conversionId\u0026quot;:\u0026quot;pd-product-buy-sell\u0026quot;}\" target=\"_blank\"\u003e\u003cspan class=\"LeftPanel\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cdiv class=\"ClearFix\"\u003e\r\n\r\n\t\u003c/div\u003e\r\n\u003c/div\u003e","TooltipContainerID":"ctl00_ctl22_ctl07_ctl06_ctl25_ctl02_ctl02","TradingPartners":[{"TradingPartnerName":"IWBank","SmallLogoUrl":"/IT/MediaLibrary/b71f43fa-5851-4133-ac70-c4a0ee729ce5/1200x630wa.jpg","BuyUrl":"https://www.iwbank.it/vontobel-certificate","SellUrl":"https://www.iwbank.it/vontobel-certificate","SubscribeUrl":"https://www.iwbank.it/vontobel-certificate"},{"TradingPartnerName":"Poste Italiane","SmallLogoUrl":"/IT/MediaLibrary/3fc8662b-c9cf-410b-80ca-16f2080f6c51/poste-1.png","BuyUrl":"https://www.poste.it/prodotti/trading-online-bancoposta.html","SellUrl":"https://www.poste.it/prodotti/trading-online-bancoposta.html","SubscribeUrl":"https://www.poste.it/prodotti/trading-online-bancoposta.html"},{"TradingPartnerName":"Directa","SmallLogoUrl":"/IT/MediaLibrary/90ab4db6-4048-4aa1-b1c8-c23aa56ec1b6/directa%20logo.jpg","BuyUrl":"http://www.directa.it/","SellUrl":"http://www.directa.it/","SubscribeUrl":"http://www.directa.it/"},{"TradingPartnerName":"Binck","SmallLogoUrl":"/IT/MediaLibrary/c593d77e-4c18-4022-a11d-6ff0849675ed/binck_roer_291x282.gif","BuyUrl":"https://www.binck.it/","SellUrl":"https://www.binck.it/","SubscribeUrl":""}],"debugEnabled":false}, null, null, $get("ctl00_ctl22_ctl07_ctl06_ctl25_ctl02"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.OverlayContainerControl, {"ID":"ctl00_ctl22_ctl07_ctl06_ctl26","at":"left center","closeButtonSelector":null,"debugEnabled":false,"hiddenFieldId":"ctl00_ctl22_ctl07_ctl06_ctl26_selectedElementId","isEmpty":false,"my":"right-7 top-26","openButtonSelector":".tradingPartnersButton.buy","responsiveArrowId":"ctl00_ctl22_ctl07_ctl06_ctl26_ctl00","updatePanelId":""}, null, null, $get("ctl00_ctl22_ctl07_ctl06_ctl26"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.InstrumentTradeControl, {"InstrumentData":{"ISIN":"DE000VU6EKD0","Valor":"125979644","CurrencyCode":"EUR","IsOlderThenTwelveMonths":false,"IsListed":false,"IsSubscriptionActive":false,"IsSwissDots":false},"ItemContainerID":"ctl00_ctl22_ctl07_ctl06_ctl26_ctl02_ctl00","ItemTemplate":"\u003cdiv class=\"ItemPanel\"\u003e\r\n\t\u003cimg class=\"SmallLogo\" src=\"\" alt=\"@@TradingPartnerName@@\" style=\"border-width:0px;\" /\u003e\u003ca class=\"BuyLink\" data-tracking-listener-onclick=\"{\u0026quot;action\u0026quot;:\u0026quot;buy\u0026quot;,\u0026quot;category\u0026quot;:\u0026quot;link-broker\u0026quot;,\u0026quot;label\u0026quot;:\u0026quot;@@TradingPartnerName@@\u0026quot;,\u0026quot;nonInteraction\u0026quot;:\u0026quot;false\u0026quot;,\u0026quot;tech_category\u0026quot;:\u0026quot;link\u0026quot;,\u0026quot;conversionId\u0026quot;:\u0026quot;pd-product-buy-sell\u0026quot;}\" target=\"_blank\"\u003e\u003cspan class=\"LeftPanel\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cdiv class=\"ClearFix\"\u003e\r\n\r\n\t\u003c/div\u003e\r\n\u003c/div\u003e","TooltipContainerID":"ctl00_ctl22_ctl07_ctl06_ctl26_ctl02_ctl02","TradingPartners":[{"TradingPartnerName":"IWBank","SmallLogoUrl":"/IT/MediaLibrary/b71f43fa-5851-4133-ac70-c4a0ee729ce5/1200x630wa.jpg","BuyUrl":"https://www.iwbank.it/vontobel-certificate","SellUrl":"https://www.iwbank.it/vontobel-certificate","SubscribeUrl":"https://www.iwbank.it/vontobel-certificate"},{"TradingPartnerName":"Poste Italiane","SmallLogoUrl":"/IT/MediaLibrary/3fc8662b-c9cf-410b-80ca-16f2080f6c51/poste-1.png","BuyUrl":"https://www.poste.it/prodotti/trading-online-bancoposta.html","SellUrl":"https://www.poste.it/prodotti/trading-online-bancoposta.html","SubscribeUrl":"https://www.poste.it/prodotti/trading-online-bancoposta.html"},{"TradingPartnerName":"Directa","SmallLogoUrl":"/IT/MediaLibrary/90ab4db6-4048-4aa1-b1c8-c23aa56ec1b6/directa%20logo.jpg","BuyUrl":"http://www.directa.it/","SellUrl":"http://www.directa.it/","SubscribeUrl":"http://www.directa.it/"},{"TradingPartnerName":"Binck","SmallLogoUrl":"/IT/MediaLibrary/c593d77e-4c18-4022-a11d-6ff0849675ed/binck_roer_291x282.gif","BuyUrl":"https://www.binck.it/","SellUrl":"https://www.binck.it/","SubscribeUrl":""}],"debugEnabled":false}, null, null, $get("ctl00_ctl22_ctl07_ctl06_ctl26_ctl02"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.InfoLayerButtonControl, {"DataValueHolder":"ctl00_ctl23_currentData","HideDocuments":true,"HideTradingPartners":true,"InstrumentData":{"ISIN":"DE000VU6EKD0","Valor":"125979644","CurrencyCode":"EUR","IsOlderThenTwelveMonths":false,"IsListed":false,"IsSubscriptionActive":false,"IsSwissDots":false},"OpenWatchlistControl":true,"TargetPanelId":"ctl00_ctl23_overlayContainerUpdatePanel1","debugEnabled":false}, null, null, $get("ctl00_ctl22_ctl07_ctl06_ctl27"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.CurrentUnderlyingPriceControl, {"ID":"ctl00_ctl22_ctl07_ctl10","debugEnabled":false,"shouldInitSlider":true}, null, null, $get("ctl00_ctl22_ctl07_ctl10"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.DocumentControl, {"ID":"ctl00_ctl22_ctl07_DocumentsDesktop","closeText":"less","debugEnabled":false,"isFlyOut":true,"openText":"more"}, null, null, $get("ctl00_ctl22_ctl07_DocumentsDesktop"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.OverlayContainerControl, {"ID":"ctl00_ctl23","at":"left center","closeButtonSelector":null,"debugEnabled":false,"hiddenFieldId":"ctl00_ctl23_selectedElementId","isEmpty":false,"my":"right-7 top-26","openButtonSelector":".ctl00_ctl23","responsiveArrowId":"ctl00_ctl23_ctl00","updatePanelId":"ctl00_ctl23_overlayContainerUpdatePanel1"}, null, null, $get("ctl00_ctl23"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Web.UI.CmsControls.DisclaimerControl, {"acceptAllID":"ctl00_DisclaimerManager_ctl00_ctl00_AcceptAll","acceptFunctionalOnlyID":"ctl00_DisclaimerManager_ctl00_ctl00_AcceptFunctionalOnly","acceptID":"ctl00_DisclaimerManager_ctl00_ctl00_Accept","backgroundImageUrl":"","cancelID":"ctl00_DisclaimerManager_ctl00_ctl00_Cancel","cookieExpirationTime":90,"debugEnabled":false,"disclaimerCookieName":"derinet_IT_disclaimer","disclaimerID":"ctl00_DisclaimerManager_ctl00_ctl00","disclaimerNotAcceptedURL":"https://www.vontobel.com/INT/IT/Home","disclaimerWidth":725,"editPrivacyID":"ctl00_DisclaimerManager_ctl00_ctl00_ctl14","enabled":true,"isTrackingEnabled":true,"openDelaySeconds":0,"openOnFirstInteraction":false,"tealiumCookieName":"CONSENTMGR","useSecureCookie":true}, null, null, $get("ctl00_DisclaimerManager_ctl00_ctl00"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.CountryDropDownControl, {"countrySelectorID":"ctl00_DisclaimerManager_ctl00_ctl00_CountrySelector_countryDropDown","debugEnabled":false}, null, null, $get("ctl00_DisclaimerManager_ctl00_ctl00_CountrySelector"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Web.UI.Controls.WebComponentLinkScriptControl, {"areWebComponentsActive":false,"debugEnabled":false,"errorMessage":"Something went wrong. Please reload the page.","loaderCssClass":"web-component-loader","nativeLoaderCssClass":"web-component-native-loader","switchUpdateJsVendorLibraries":true,"webComponentBaseUrl":"https://www.vontobel.com/","webComponentBundleUrl":"https://www.vontobel.com/Static/scripts/web-component/sh-react-components.derinet.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb1687996800000","webComponentEs5AdapterUrl":"https://www.vontobel.com/Static/scripts/web-component/custom-elements-es5-adapter.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb1687996800000","webComponentLanguage":"it-IT","webComponentLibraryUrl":"https://www.vontobel.com/Static/scripts/web-component/webcomponents-bundle.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb1687996800000","webComponentNativeBundleUrl":"https://www.vontobel.com/Static/scripts/web-component/sh-web-components.derinet.js?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb1687996800000"}, null, null, $get("ctl00_ctl02"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.TrackingLinkReplaceControl, {"debugEnabled":false,"linkReplaceConfiguration":"/IT/Resources/Json/LinkReplaceConfiguration.json?v=16878818631907f977b81e04e0fbaa9abd39ea5d834f1b002716f1594f28023a32d5ce5dbb0cb"}, null, null, $get("ctl00_ctl04"));
+});
+Sys.Application.add_init(function() {
+    $create(Vontobel.Derinet.Web.UI.Controls.QuoteStreamGrid, {"itemsExists":"True","options":{"dataAdapter":"MDS5","gridListener":new Vontobel.Derinet.QuoteStream.QuoteStreamWebClientGridListener({"upColor":"#009000","downColor":"#DC302F","pushColor":"Transparent","backgroundUpColor":"#BCE0BD","backgroundDownColor":"#FFA8A8","fadeInTime":0,"fadeOutTime":50,"flashTime":900,"dateTimeFormat":"","columnFormats":{"bid":"DecimalPlacesTwoToFour","bidsize":"Millions","ask":"DecimalPlacesTwoToFour","asksize":"Millions","quotetime":"TimeWithMilliseconds","valuation":"DecimalPlacesTwo","X0000050D00FR0000131906_quotetime":"ShortTime","X0000050D00NL00150001Q9_quotetime":"ShortTime"},"defaultColumnFormats":{"quotetime":"ShortTime","bid":"DecimalPlacesTwoToThree","ask":"DecimalPlacesTwoToThree","bidsize":"DecimalPlacesTwoToThree","asksize":"DecimalPlacesTwoToThree","_wl_change_absolute":"DecimalPlacesTwoToThree","_wl_change_percent":"DecimalPlacesTwoPercent"},"currentCulture":"it"}),"additionalFieldsToSubscribe":["_color","_time-offset","_openingPrice","_purchaseAmount"],"initialValues":{"X0000010D00DE000VU6EKD0":{"bid":"100","bidsize":"2900","_time-offset":"0","ask":"101.5","asksize":"2900","quotetime":"09:17:55.702"},"X0000050D00FR0000131906":{"valuation":"38,30","_time-offset":"0","quotetime":"09:39"},"X0000050D00NL00150001Q9":{"valuation":"15,75","_time-offset":"0","quotetime":"09:39"}}}}, null, {"client":"ctl00_GlobalPushPageQuotes"}, $get("ctl00_ctl22_ctl07_QuoteStreamGrid"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_ctl00_ctl22_ctl00_ctl00_ctl01_ctl00"),"ownerID":"ctl00_ctl22_ctl00_ctl00_ctl01"}, null, {"owner":"ctl00_ctl22_ctl00_ctl00_ctl01"}, $get("ctl00_ctl22_ctl00_ctl00_ctl01_ctl00"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_ctl00_ctl22_ctl00_ctl00_ctl01_ctl01"),"ownerID":"ctl00_ctl22_ctl00_ctl00_ctl01"}, null, {"owner":"ctl00_ctl22_ctl00_ctl00_ctl01"}, $get("ctl00_ctl22_ctl00_ctl00_ctl01_ctl01"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_ctl00_ctl22_ctl00_ctl00_ctl01_ctl02"),"ownerID":"ctl00_ctl22_ctl00_ctl00_ctl01"}, null, {"owner":"ctl00_ctl22_ctl00_ctl00_ctl01"}, $get("ctl00_ctl22_ctl00_ctl00_ctl01_ctl02"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabContainer, {"activeTabIndex":0,"clientStateField":$get("ctl00_ctl22_ctl00_ctl00_ctl01_ClientState")}, {"activeTabChanged":function () { switchTabs(); }}, null, $get("ctl00_ctl22_ctl00_ctl00_ctl01"));
+});
+Sys.Application.add_init(function() {
+    $create(Smarthouse.QuoteStream.WebClient.QuoteStreamClient, {"feedAdapter":"SmarthouseFeed","token":"flZkefXbZZwwmZ4dFQrS1JU+T82GpTOv+GCe0DSit452+yb3c3jbCA==","url":"https://push.vontobel.com/","user":""}, null, null, $get("ctl00_GlobalPushPageQuotes"));
+});
+//]]>
+</script>
+</form>
+	<span id="ctl00_ctl02"></span>
+</body>
+
+<span id="ctl00_ctl04"></span>
+</html>

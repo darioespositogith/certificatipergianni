@@ -186,6 +186,8 @@ def update_post_tables(click_to_update,n,old_data):
         elif dizionario_isin_emittente[isin]=='VON':
             r=requests.get(url=f"https://certificati.vontobel.com/IT/IT/Prodotti/{isin}/")
             risultato_testuale=r.text
+            with open(f"{isin}.txt",'w') as file:
+                file.write(risultato_testuale)
             if '<span class="title">Denaro</span><span class="strong value">' in risultato_testuale:
                 bid=risultato_testuale.split('<span class="title">Denaro</span><span class="strong value">')[1].split('</span>')[0]
                 if '<span class="title">Lettera</span><span class="strong value">' in risultato_testuale:
