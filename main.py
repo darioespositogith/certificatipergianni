@@ -29,8 +29,8 @@ content=content.fillna('')
 titoli=['% Anno','ISIN Cert.','1° Ced.','Ultima Ced.','Emittente','Sottostante','Codice Sottostante','Strike','Barriera','Prezzo Sottostante','Vicinanza Barriera','Bid Cert.','Ask Cert.']
 fixed=['% Anno','ISIN Cert.','1° Ced.','Ultima Ced.','Emittente','Sottostante','Codice Sottostante']
 colonne=[{'id':name, 'name':name, 'editable':True} for name in fixed]+\
-    [{'id':'Strike','name':'Strike','type':'numeric','format':euroformat,'editable':False}]+\
-    [{'id':'Barriera','name':'Barriera','type':'numeric','format':euroformat,'editable':False}]+\
+    [{'id':'Strike','name':'Strike','type':'numeric','format':euroformat,'editable':True}]+\
+    [{'id':'Barriera','name':'Barriera','type':'numeric','format':euroformat,'editable':True}]+\
     [{'id':'Prezzo Sottostante','name':'Prezzo Sottostante','type':'numeric','format':euroformat,'editable':False}]+\
     [{'id':'Vicinanza Barriera','name':'Vicinanza barriera','type':'numeric','format':FormatTemplate.percentage(1),'editable':False}]+\
     [{'id':'Bid Cert.','name':'Bid Cert.','type':'numeric','format':euroformat,'editable':False}]+\
@@ -43,6 +43,7 @@ except:
     start_message='Mai aggiornato, clicca per aggiornare'
 start_data=content.to_dict(orient='records')
 app.layout=html.Div(children=[
+    dcc.Store(id='nothing',data={}),
                             dcc.Interval(
                                 id='interval_component',
                                 interval=10*60*1000,
@@ -54,6 +55,9 @@ app.layout=html.Div(children=[
                                                html.H5(id='update_message',children=start_message)
                             ]),
                             html.Button(id='add_row',children='Aggiungi un rigo alla tabella')],style={'display':'table-row'}),
+                            html.Div(id='niente',children=[html.H5('Aggiungi un url teleborsa per eventuali siti che non rispondono. Per ISIN ',style={'display':'inline-block'}),dcc.Input(id='isin',type='text',placeholder='ISIN',style={'display':'inline-block'}),html.H5("cerca all'indirizzo: ",style={'display':'inline-block'}),dcc.Input(id='url_completo',type='text',placeholder='www.etc....',style={'display':'inline-block'}),
+                            html.Button(id='add_tb_link',children='Aggiungi!',style={'display':'inline-block'})],
+                                     style={'display':'inline-block'}),
                             dcc.Loading(DataTable(id='Tabella principale',
                                           data=start_data,
                                           #{name:'' for name in ['% Anno','ISIN Certificato','Prima Cedola','Ultima Cedola','Emittente','Nome Sottostante','Codice yahoo_fin Sottostante','Strike','Barriera','Mercato']}],
@@ -129,6 +133,24 @@ def add_row(n_clicks, rows, columns):
         rows.append({c['id']: '' for c in columns})
     return rows
 
+
+@callback(
+    Output('nothing','data'),
+    Input('add_tb_link', 'n_clicks'),
+    State('isin','value'),
+    State('url_completo','value'),
+    prevent_initial_call=True
+)
+def add_teleborsalink(n_clicks, isin,url):
+    if not n_clicks:
+        raise PreventUpdate
+    with open('teleborsaconfig.py','r') as file:
+        mapping=json.load(file)
+    mapping[isin]=url
+    with open('teleborsaconfig.py','w') as file:
+        json.dump(mapping,file,indent=6)
+    return {}
+
 @callback(
     Output(component_id=f'Tabella principale', component_property='data'),
     Output(component_id=f'update_message',component_property='children'),
@@ -137,8 +159,8 @@ def add_row(n_clicks, rows, columns):
     State(component_id=f'Tabella principale', component_property='data'),
 )
 def update_post_tables(click_to_update,n,old_data):
-    #if not click_to_update:
-    #    raise PreventUpdate
+    with open('teleborsaconfig.py','r') as file:
+        mapping=json.load(file)
     logging.error(f'CLICKED:{click_to_update}, INTERVALS PASSED: {n}')
     data=old_data
     #logging.error(f'old_data={old_data}')
@@ -168,6 +190,7 @@ def update_post_tables(click_to_update,n,old_data):
                 dizionario_isin_emittente[isin]=(bid,ask)
                 logging.error(dizionario_isin_emittente[isin])
             else:
+                (bid,ask)=('Sito non risponde','Sito non risponde')
                 dizionario_isin_emittente[isin]=('Sito non risponde','Sito non risponde')
                 logging.error(dizionario_isin_emittente[isin])
         elif dizionario_isin_emittente[isin]=='BNP':
@@ -198,30 +221,34 @@ def update_post_tables(click_to_update,n,old_data):
                 (bid,ask)=('Sito non risponde','Sito non risponde')
             dizionario_isin_emittente[isin]=(bid,ask)
             logging.error(dizionario_isin_emittente[isin])
+        elif dizionario_isin_emittente[isin]=='MAF':
+            (bid,ask)=('Sito non risponde','Sito non risponde')
+            dizionario_isin_emittente[isin]=(bid,ask)
+            logging.error(dizionario_isin_emittente[isin])
         else:
             dizionario_isin_emittente[isin]=('','')
         
         ##########
         # TENTATIVI INDIVIDUALI CON TELEBORSA
         ##########
-
-        print(f'Qui isin è {isin} e mi chiedo se si trovi in {mapping.keys()}')
-        if isin in mapping.keys():
-            print('E ci sta!')
-            r=requests.get(url=mapping[isin])
-            risultato_testuale=r.text
-            if '"ctl00_phContents_ctlInfoTitolo_lblBid"' in risultato_testuale:
-                print('Ho trovato quello che volevo!!!\n\n\n')
-                bid=risultato_testuale.split('"ctl00_phContents_ctlInfoTitolo_lblBid">')[1].split('</span>')[0].split(' x')[0]
-                if '"ctl00_phContents_ctlInfoTitolo_lblAsk"' in risultato_testuale:
-                    ask=risultato_testuale.split('"ctl00_phContents_ctlInfoTitolo_lblAsk">')[1].split('</span>')[0].split(' x')[0]
+        if bid=='-' or bid=='Sito non risponde' or dizionario_isin_emittente[isin][0]=='Sito non risponde' or dizionario_isin_emittente[isin][0]=='':
+            print(f'Qui isin è {isin} e mi chiedo se si trovi in {mapping.keys()}')
+            if isin in mapping.keys():
+                print('E ci sta!')
+                r=requests.get(url=mapping[isin])
+                risultato_testuale=r.text
+                if '"ctl00_phContents_ctlInfoTitolo_lblBid"' in risultato_testuale:
+                    print('Ho trovato quello che volevo!!!\n\n\n')
+                    bid=risultato_testuale.split('"ctl00_phContents_ctlInfoTitolo_lblBid">')[1].split('</span>')[0].split(' x')[0]
+                    if '"ctl00_phContents_ctlInfoTitolo_lblAsk"' in risultato_testuale:
+                        ask=risultato_testuale.split('"ctl00_phContents_ctlInfoTitolo_lblAsk">')[1].split('</span>')[0].split(' x')[0]
+                    else:
+                        ask='bid-only!'
                 else:
-                    ask='bid-only!'
-            else:
-                (bid,ask)=('Sito non risponde','Sito non risponde')
-            
-            dizionario_isin_emittente[isin]=(bid,ask)
-            logging.error(dizionario_isin_emittente[isin])
+                    (bid,ask)=('Sito non risponde','Sito non risponde')
+                
+                dizionario_isin_emittente[isin]=(bid,ask)
+                logging.error(dizionario_isin_emittente[isin])
 
 
 
