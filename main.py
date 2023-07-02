@@ -279,8 +279,8 @@ def update_post_tables(click_to_update,n,old_data):
                      'Strike':strike,
                     'Prezzo Sottostante':valore,
                     'Vicinanza Barriera':vicinanza,
-                    'Bid Cert.':dizionario_isin_emittente[line['ISIN Cert.']][0].replace('\t','').replace(' ','').replace('\n','').replace('\r',''),
-                    'Ask Cert.':dizionario_isin_emittente[line['ISIN Cert.']][1].replace('\t','').replace(' ','').replace('\n','').replace('\r','')}
+                    'Bid Cert.':str(dizionario_isin_emittente[line['ISIN Cert.']][0]).replace('\t','').replace(' ','').replace('\n','').replace('\r',''),
+                    'Ask Cert.':str(dizionario_isin_emittente[line['ISIN Cert.']][1]).replace('\t','').replace(' ','').replace('\n','').replace('\r','')}
                     )
     data=[line for line in old_data]
     #logging.error(f'new_data:{data}')
