@@ -24,7 +24,7 @@ euroformat=Format(scheme=Scheme.fixed,
 
 app = Dash(__name__)
 server = app.server
-content=pd.read_csv('assets/StartSet.csv',header=None,sep="_|_").dropna(how='all',axis=1).dropna(how='all',axis=0)
+content=pd.read_csv('assets/StartSet.csv',header=None,sep="£").dropna(how='all',axis=1).dropna(how='all',axis=0)
 content=content.fillna('')
 titoli=['% Anno','ISIN Cert.','1° Ced.','Ultima Ced.','Emittente','Sottostante','Codice Sottostante','Strike','Barriera','Prezzo Sottostante','Vicinanza Barriera','Bid Cert.','Ask Cert.']
 fixed=['% Anno','ISIN Cert.','1° Ced.','Ultima Ced.','Emittente','Sottostante','Codice Sottostante']
@@ -285,7 +285,7 @@ def update_post_tables(click_to_update,n,old_data):
     data=[line for line in old_data]
     #logging.error(f'new_data:{data}')
     df=pd.DataFrame.from_records(data)         
-    df.to_csv('assets/StartSet.csv',index=False,header=False,sep="_|_")
+    df.to_csv('assets/StartSet.csv',index=False,header=False,sep="£")
 
     update_message=f"Aggiornato l'ultima volta alle {datetime.datetime.now()+datetime.timedelta(hours=2)}"
     with open('file','w') as file:
