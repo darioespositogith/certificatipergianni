@@ -231,7 +231,7 @@ def update_post_tables(click_to_update,n,old_data):
         ##########
         # TENTATIVI INDIVIDUALI CON TELEBORSA
         ##########
-        if bid=='-' or bid=='Sito non risponde' or dizionario_isin_emittente[isin][0]=='Sito non risponde' or dizionario_isin_emittente[isin][0]=='':
+        if bid=='Sito non risponde' or dizionario_isin_emittente[isin][0]=='Sito non risponde' or dizionario_isin_emittente[isin][0]=='':
             print(f'Qui isin è {isin} e mi chiedo se si trovi in {mapping.keys()}')
             if isin in mapping.keys():
                 print('E ci sta!')
